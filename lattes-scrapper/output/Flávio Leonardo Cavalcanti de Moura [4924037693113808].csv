@@ -1,0 +1,79 @@
+Nome,Lattes ID,Resumo,Formação acadêmica/titulação,Áreas de atuação,Idiomas,Prêmios e títulos,Produções,Orientações
+Flávio Leonardo Cavalcanti de Moura,4924037693113808,"Possui graduação em Bacharelado e Licenciatura em Matemática pela Universidade de Brasília (1998), mestrado em Matemática pela Universidade de Brasília (2002), doutorado em Teoria da Computação (Sanduíche) - Heriot-Watt University (2005), doutorado em Matemática pela Universidade de Brasília (2006) e pós-doutorado na Université Paris Diderot (Paris 7) (2011). Atualmente é professor associado da Universidade de Brasília. Tem experiência na área de Matemática, com ênfase em Teoria da Computação, atuando principalmente nos seguintes temas: cálculo lambda, substituições explícitas e unificação de ordem superior.(Texto informado pelo autor)","Data: 2002 - 2006. Doutorado em Matemática.Universidade de Brasília, UnB, Brasil.Título: Um Estudo Comparativo em
+    Unificação de Ordem Superior via Cálculos de
+    Substituições Explícitas, Ano de obtenção: 2006.Orientador:Mauricio Ayala Rincón.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.Palavras-chave: Calculi of Explicit Substitutions; Explicit Substitutions; Higher-Order Unification; Lambda Calculus. $<->$ Data: 2004 - 2005. Doutorado em Teoria da Computação (Sanduíche).Heriot-Watt University, HWU, Escócia.Título: Um Estudo Comparativo em
+    Unificação de Ordem Superior via Cálculos de
+    Substituições Explícitas, Ano de obtenção: 2005.Orientador: Fairouz Kamareddine.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.Palavras-chave: Calculi of Explicit Substitutions; Higher-Order Unification; Matching.Grande área: Ciências Exatas e da Terra $<->$ Data: 2000 - 2002. Mestrado em Matemática.Universidade de Brasília, UnB, Brasil.Título: Comparando Cálculos de Substituições Explícitas com Eta- conversãoO Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações., Ano de Obtenção: 2002.Orientador:Mauricio Ayala Rincón.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.Palavras-chave: Substituições Explícitas; Teoria de Reescrita; Lambda Cálculo.Grande área: Ciências Exatas e da TerraGrande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Computabilidade e Modelos de Computação.Setores de atividade: Desenvolvimento de Programas (Software). $<->$ Data: 1992 - 1998. Graduação em Licenciatura e Bacharelado em Matemática.Universidade de Brasília, UnB, Brasil.",Grande área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Matemática Aplicada/Especialidade: Teoria da Computação.,"Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Francês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.","2004: Woody Bledsoe Student Travel Award, IJCAR 2004.","LIMA, MARIA J. D.2023LIMA, MARIA J. D. ;de Moura, Flávio L. C.. A Formalized Extension of the Substitution Lemma in Coq. ELECTRONIC PROCEEDINGS IN THEORETICAL COMPUTER SCIENCE, v. 389, p. 80-95, 2023. $<->$ AVELAR, A. B.2014AVELAR, A. B.; GALDINO, A. L. ;de MOURA, F. L. C.; AYALA-RINCON, M. . First-order unification in the PVS proof assistant. Logic Journal of the IGPL (Print), v. 22, p. 758-789, 2014. $<->$ CARVALHO-SEGUNDO, W.2014CARVALHO-SEGUNDO, W. ;de MOURA, F. L. C.; VENTURA, D. L. . Formalizing a Named Explicit Substitutions Calculus in Coq. CEUR Workshop Proceedings, v. 1186, p. 19, 2014. $<->$ Avelar, Andréia B2012Avelar, Andréia B ; Galdino, André L ;de Moura, Flávio LC; Ayala-Rincón, Mauricio . A Formalization of the Theorem of Existence of First-Order Most General Unifiers. Electronic Proceedings in Theoretical Computer Science, v. 81, p. 63-78, 2012. $<->$ de MOURA, F. L. C.2011de MOURA, F. L. C.; Barbosa, Alex ; M. Ayala-Rincón . A Flexible Framework for Visualisation of Computational Properties of General Explicit Substitutions Calculi. Electronic Notes in Theoretical Computer Science, v. 269, p. 41-54, 2011. $<->$ de MOURA, F. L. C.2008de MOURA, F. L. C.;AYALA-RINCÓN, M.; KAMAREDDINE, F. . Higher-Order Unification: A structural relation between Huet's method and the one based on explicit substitutions. Journal of Applied Logic, v. 6, p. 72-108, 2008. $<->$ de MOURA, F. L. C.2006de MOURA, F. L. C.;AYALA-RINCÓN, M.; KAMAREDDINE, F. . SUBSEXPL: a Tool for Simulating and Comparing Explicit Substitutions Calculi. Journal of Applied Non-Classical Logics, v. 16, p. 119-150, 2006. $<->$ de MOURA, F. L. C.2005de MOURA, F. L. C.;AYALA-RINCÓN, M.; KAMAREDDINE, F. . Comparing and Implementing Calculi of Explicit Substitutions with Eta-Reduction. Annals of Pure and Applied Logic, Amsterdam, v. 134, n.1, p. 5-41, 2005.","Marco Tulio Villela Ribeiro Faria. Uma formalização do lema da substituição sem nomes locais em Coq.
+					Início: 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)  - Universidade de Brasília. (Orientador). $<->$ João Paulo Carvalho Colu de Queiroz. Verificação Formal de Código Imperativo em Coq.
+						2012.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Washington Luís Ribeiro de Carvalho Segundo. Verificação de Propriedades do Cálculo Lambda_ex em Coq.
+						2010.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Flávio Ferro Barros. Uma formalização da composicionalidade do cálculo lex em Coq.
+						2010.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Jose Roberto Interaminense Soares.
+						Formalização em Coq da  prova de confluência da cálculo lambda-x no contexto nominal.
+						2024.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Danilo Raposo Freire Caldas.
+						Formalização em Coq da prova de confluência do cálculo lambda_x.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Maria Julia Dias Lima.
+						A formalized extension of the substitution lemma in Coq.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Ricardo Tadeu.
+						Uma formalização do algoritmo AKS em Coq.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Licenciatura em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Flávio Botelho.
+						Adicionando novas funcionalidades à ferramenta SUBSEXPL.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Gabriel Alves Castro.
+						Formalização da Normalização Forte em Cálculos com Substituições Explícitas.
+						2019.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Leandro Oliveira Rezende.
+						Formalização da Confluência em Cálculos de Substituições Explícitas.
+						2018.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Nikson Bernardes Fernandes  Ferreira.
+						Formalização do Algoritmo de Ford-Johnson.
+						2017.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Raphael Soares Ramos.
+						Formalização da Modularização da Normalização Forte.
+						2017.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Edson Floriano de Sousa Júnior.
+						Formalização de Propriedades em Cálculos com Substituições Explícitas em COQ.
+						2015.
+						Iniciação Científica. (Graduando em Bacharelado e Licenc. em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Abílio Esteves Calegário de Oliveira.
+						Correção de Sistemas Computacionais e Aplicações.
+						2013.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Laís Mendes Gonçalves.
+						Portabilidade do SUBSEXPL para Emacs 23.
+						2013.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Luiza Alencar Azevedo.
+						Verificação Formal de Algoritmos Criptográficos.
+						2012.
+						Iniciação Científica. (Graduando em Licenciatura em Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Loreane Evelyn Nazareth Brandizzi.
+						Especificação do Cálculo Lambda es em Notação de deBruijn.
+						2010.
+						Iniciação Científica. (Graduando em Licenciatura em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Lucas de Melo Guimarães.
+						A correção do algoritmo AKS em Coq.
+						2010.
+						Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Wilson Domingos Sidinei Alves Miranda.
+						Formalização do Teorema de Fermat Generalizado.
+						2008.
+						Iniciação Científica. (Graduando em Licenciatura e Bacharelado em Matemática)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Phillipo Lappicy Lemos Gomes.
+						Formalização do Algoritmo AKS em Coq.
+						2008.
+						Iniciação Científica. (Graduando em Licenciatura e Bacharelado em Matemática)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Washington Segundo.
+						Verificação Formal de um algoritmo de matching de ordem superior em Coq.
+						2007.
+						Iniciação Científica. (Graduando em Licenciatura e Bacharelado em Matemática)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura. $<->$ Luiz Garcia.
+						Verificação Formal de algoritmos ordenação em Coq.
+						2007.
+						Iniciação Científica. (Graduando em Licenciatura em Ciência da Computação)  - Universidade de Brasília. Orientador: Flávio Leonardo Cavalcanti de Moura."

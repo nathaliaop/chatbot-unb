@@ -1,0 +1,261 @@
+Nome,Lattes ID,Resumo,Formação acadêmica/titulação,Áreas de atuação,Idiomas,Prêmios e títulos,Produções,Orientações
+Alba Cristina Magalhães Alves de Melo,5123602572479168,"Possui graduação em Processamento de Dados pela Universidade de Brasília (1986), mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1991) e doutorado em Ciência da Computação pelo  Institut National Polytechnique de Grenoble (1996). Atualmente é Professor Titular da Universidade de Brasília e IEEE Senior Member. Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: bioinformatics, high performance computing, distributed shared memory, cloud computing, memory consistency models, cluster computing, GPUs e FPGAs.(Texto informado pelo autor)","Data: 1992 - 1996. Doutorado em Ecole Doctoral En Informatique.Institut National Polytechnique de Grenoble, INPG, França.Título: Conception d'un Système Supportant des Modèles de Cohérence Multiples pour les Machines Parallèles à Mémoire Virtuelle Partagée, Ano de obtenção: 1996.Orientador: Traian Muntean.Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.Palavras-chave: distributed shared memory; memory consistency models; parallel memory management.Grande área: Ciências Exatas e da TerraSetores de atividade: Informática. $<->$ Data: 1988 - 1991. Mestrado em Computação.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.Título: Propar: Um Gerente de Processos Paralelos para Arquiteturas Fracamente AcopladasO Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações., Ano de Obtenção: 1991.Orientador: Philippe Olivier Alexander Navaux.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.Palavras-chave: sistemas operacionais paralelos; gerência de processos paralelos; comunicação entre processos; escalonamento de processadores.Grande área: Ciências Exatas e da TerraSetores de atividade: Informática. $<->$ Data: 1988 - 1989. Especialização em Estágio no Laboratoire de Génie Informatique Equip.Institut National Polytechnique de Grenoble, INPG, França. $<->$ Data: 1984 - 1986. Graduação em Tecnólogo Em Processamento de Dados.Universidade de Brasília, UnB, Brasil.",Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Software Básico. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Lógicas e Semântica de Programas. $<->$ Grande área: Engenharias / Área: Engenharia Biomédica / Subárea: Bioengenharia. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Programação Paralela.,"Francês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Espanhol: Compreende Bem, Fala Pouco, Lê Razoavelmente, Escreve Pouco. $<->$ Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.","2023: IEEE TCPP Outstanding Service and Contributions Award, IEEE Computer Society. $<->$ 2019: IEEE TPDS Award for Editorial Excellence, IEEE Computer Society. $<->$ 2019: Wilkes Award - Best Paper Published in The Computer Journal in 2018, Oxford University Press. $<->$ 2018: Orientadora de Tese - Menção Honrosa no WSCAD-CTD 2018, Sociedade Brasileira de Computação. $<->$ 2016: Orientadora da 3a Melhor Tese de Doutorado da SBC - CTD 2016, Sociedade Brasileira de Computação. $<->$ 2016: Orientadora da Tese Vencedora do Prêmio Capes de Tese em Computação 2016, Capes. $<->$ 2016: Orientadora da Tese Vencedora do WSCAD-CTD 2016, Sociedade Brasileira de Computação. $<->$ 2004: Best Paper Award I2TS 2004, International Information and Telecommunication Technologies Symposium. $<->$ 2004: IEEE Senior Member, IEEE Society.","MENDES, ALDO H.D.2024MENDES, ALDO H.D. ; ROSA, MICHEL J.F. ; MAROTTA, MARCELO A. ; ARAUJO, ALETEIA ;Melo, Alba C.M.A.; RALHA, CÉLIA GHEDINI . MAS-Cloud+: A novel multi-agent architecture with reasoning models for resource management in multiple providers. Future Generation Computer Systems, v. 154, p. 16-34, 2024. $<->$ MARQUES SOUDRÉ, MARLON2024MARQUES SOUDRÉ, MARLON ; HULTMANN AYALA, HELON VICENTE ;Melo, Alba Cristina; LLANOS, CARLOS H. . A novel GPU-based approach for embedded NARMAX/FROLS system identification. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 211, p. 111261, 2024. $<->$ MACEDO, EMERSON A.2024MACEDO, EMERSON A. ;Melo, Alba C.M.A.. Adaptive Patch Grid Strategy for Parallel Protein Folding using Atomic Burials with NAMD. JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING, v. 189, p. 104868, 2024. $<->$ DE CARVALHO, LEONARDO REBOUCAS2023DE CARVALHO, LEONARDO REBOUCAS ;Melo, Alba Cristina Alves; ARAUJO, ALETEIA . AFMC: An alignment framework for multiple computing services and providers. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 35, p. e7595, 2023. $<->$ NUNES, ALAN L.2023NUNES, ALAN L. ;MELO, ALBA; TADONKI, CLAUDE ; BOERES, CRISTINA ; DE OLIVEIRA, DANIEL ; DE ASSUMPÇÃO, LÚCIA MARIA . Optimizing computational costs of Spark for SARS-CoV-2 sequences comparisons on a commercial cloud. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 35, p. e7678, 2023. $<->$ PORTELLA, GUSTAVO J.2023PORTELLA, GUSTAVO J. ; NAKANO, EDUARDO ; RODRIGUES, GENAINA N. ; Boukerche, Azzedine ;MELO, ALBA C. M. A.. A Novel Statistical and Neural Network Combined Approach for the Cloud Spot Market. IEEE TRANSACTIONS ON CLOUD COMPUTING, v. 11, p. 278-290, 2023. $<->$ BARREIROS, WILLIAN2022BARREIROS, WILLIAN ;Melo, Alba C.M.A.; KONG, JUN ; FERREIRA, RENATO ; KURC, TAHSIN M. ; SALTZ, JOEL H. ;TEODORO, GEORGE. Efficient microscopy image analysis on CPU-GPU systems with cost-aware irregular data partitioning. JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING, v. 164, p. 40-54, 2022. $<->$ JORGE, CARLOS A. C.2021JORGE, CARLOS A. C. ; NERY, ALEXANDRE S. ;MELO, ALBA C. M. A.; GOLDMAN, ALFREDO . A heterogeneous approach for biological sequence comparison using high-level synthesis. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 33, p. e6007:1-e6007:14, 2021. $<->$ FIGUEIREDOJR, MARCO ANTONIO CALDAS DE2021FIGUEIREDOJR, MARCO ANTONIO CALDAS DE ; NAVARRO, JOAO PAULO ; SANDES, EDANS FLAVIUS DE OLIVEIRA ;TEODORO, GEORGE;Melo, Alba Cristina Magalhaes. Parallel Fine-Grained Comparison of Long DNA Sequences in Homogeneous and Heterogeneous GPU Platforms with Pruning. IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, v. 32, p. 3053-3065, 2021. $<->$ GOMES, JEREMIAS2021GOMES, JEREMIAS ; KONG, JUN ; KURC, TAHSIN ;Melo, Alba C.M.A.; FERREIRA, RENATO ; SALTZ, JOEL H. ;TEODORO, GEORGE. Building robust pathology image analyses with uncertainty quantification. COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE, v. 208, p. 106291, 2021. $<->$ SUNDFELD, DANIEL2020SUNDFELD, DANIEL;TEODORO, GEORGE; HAVGAARD, JAKOB H. ; GORODKIN, JAN ;MELO, ALBA C. M. A.. Using GPU to accelerate the pairwise structural RNA alignment with base pair probabilities. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 32, p. e5468, 2020. $<->$ SANDES, EDANS F.O.2020SANDES, EDANS F.O. ; TEODORO, GEORGE L.M. ;Melo, Alba C.M.A.. Bitmap filter: Speeding up exact set similarity joins with bitwise operations. INFORMATION SYSTEMS, v. 88, p. 101449, 2020. $<->$ BARREIROS, WILLIAN2020BARREIROS, WILLIAN ; MOREIRA, JEREMIAS ; KURC, TAHSIN ; KONG, JUN ;Melo, Alba C.M.A.; SALTZ, JOEL H. ;TEODORO, GEORGE. Optimizing parameter sensitivity analysis of large¿scale microscopy image analysis workflows with multilevel computation reuse. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 32, p. e5403, 2020. $<->$ PORTELLA, GUSTAVO2019PORTELLA, GUSTAVO ; RODRIGUES, GENAINA N. ; NAKANO, EDUARDO ;Melo, Alba C.M.A.. Statistical analysis of Amazon EC2 cloud pricing models. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 31, p. e4451-1-e4451-15, 2019. $<->$ DE FIGUEIREDO, MARCO ANTONIO C.2019DE FIGUEIREDO, MARCO ANTONIO C. ; DE OLIVEIRA SANDES, EDANS F. ; RODRIGUES, GENAINA N. ; TEODORO, GEORGE L. M. ;De Melo, Alba Cristina M. A.. MASA-OpenCL: Parallel pruned comparison of long DNA sequences with OpenCL. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 31, p. e5039:1-e5039:17, 2019. $<->$ RALHA, CÉLIA G.2019RALHA, CÉLIA G.; Mendes, A. ; Laranjeira, L. ; ARAUJO, A. P. F. ;MELO, ALBA C M A. Multiagent system for dynamic resource provisioning in cloud computing platforms. Future Generation Computer Systems, v. 94, p. 80-96, 2019. $<->$ GOMES, JEREMIAS2019GOMES, JEREMIAS ; BARREIROS, WILLIAN ; KURC, TAHSIN ;Melo, Alba C.M.A.; KONG, JUN ; SALTZ, JOEL H. ;TEODORO, GEORGE. Sensitivity analysis in digital pathology: Handling large number of parameters with compute expensive workflows. COMPUTERS IN BIOLOGY AND MEDICINE, v. 108, p. 371-381, 2019. $<->$ SILVA, GABRIEL H.G.2019SILVA, GABRIEL H.G. ; SANDES, EDANS F.O. ;TEODORO, GEORGE;Melo, Alba C.M.A.. Using Multiple Fickett Bands to Accelerate Biological Sequence Comparisons. Journal of Computational Biology, v. 26, p. 908-922, 2019. $<->$ Sundfeld, D.2018Sundfeld, D.; RAZZOLINI, C. ; Teodoro, G. ; Boukerche, Azzedine ;Melo, Alba Cristina M. A.. PA-Star: A disk-assisted parallel A-Star strategy with locality-sensitive hash for multiple sequence alignment. JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING, v. 112, p. 154-165, 2018. $<->$ SANDES, EDANS F O2018SANDES, EDANS F O ; TEODORO, GEORGE L M ; WALTER, MARIA EMILIA M T ; MARTORELL, XAVIER ; AYGUADE, EDUARD ;MELO, ALBA C M A. Formalization of Block Pruning: Reducing the Number of Cells Computed in Exact Biological Sequence Comparison Algorithms. COMPUTER JOURNAL, v. 61, p. 687-713, 2018. $<->$ GOMES, JEREMIAS2018GOMES, JEREMIAS ;DE MELO, ALBA C. M. A.; KONG, JUN ; KURC, TAHSIN ; SALTZ, JOEL H. ;TEODORO, GEORGE. Cooperative and out-of-core execution of the irregular wavefront propagation pattern on hybrid machines with Intel ®Xeon Phi-. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 30, p. e4425, 2018. $<->$ TAVEIRA, LUIS F. R.2018TAVEIRA, LUIS F. R. ; KURC, TAHSIN ;MELO, ALBA C. M. A.; KONG, JUN ; BREMER, ERICH ; SALTZ, JOEL H. ;TEODORO, GEORGE. Multi-objective Parameter Auto-tuning for Tissue Image Segmentation Workflows. JOURNAL OF DIGITAL IMAGING, v. 32, p. 521-533, 2018. $<->$ PÉREZ-SERRANO, JESÚS2018PÉREZ-SERRANO, JESÚS ; SANDES, EDANS ;Magalhaes Alves de Melo, Alba Cristina; UJALDÓN, MANUEL . DNA sequences alignment in multi-GPUs: acceleration and energy payoff. BMC BIOINFORMATICS, v. 19, p. 421, 2018. $<->$ TEODORO, GEORGE2017TEODORO, GEORGE; KURÇ, TAHSIN M. ; TAVEIRA, LUÍS F. R. ;MELO, ALBA C. M. A.; GAO, YI ; KONG, JUN ; SALTZ, JOEL H. . Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines. BIOINFORMATICS, v. 33, p. btw749-1042, 2017. $<->$ Leite, Alessandro Ferreira2017Leite, Alessandro Ferreira ; ALVES, VANDER ; RODRIGUES, GENAÍNA NUNES ; TADONKI, CLAUDE ; EISENBEIS, CHRISTINE ;MELO, ALBA CRISTINA MAGALHAES ALVES DE. Dohko: an autonomic system for provision, configuration, and management of inter-cloud environments based on a software product line engineering method. Cluster Computing-The Journal of Networks Software Tools and Applications, v. 20, p. 1951-1976, 2017. $<->$ Sandes, Edans F. O.2016Sandes, Edans F. O.; MIRANDA, GUILLERMO ; Ayguade, E. ; MARTORELL, XAVIER ; Teodoro, G. ;De Melo, AlbaC. M. A.. MASA. ACM Transactions on Parallel Computing, v. 2, p. 1-31, 2016. $<->$ SUNDFELD, DANIEL2016SUNDFELD, DANIEL; HAVGAARD, JAKOB H. ;DE MELO, ALBA C. M. A.; GORODKIN, JAN . Foldalign 2.5: multithreaded implementation for pairwise structural RNA alignment. Bioinformatics (Oxford. Print), v. 32, p. 1238-1240, 2016. $<->$ SANDES, EDANS FLAVIUS O.2016SANDES, EDANS FLAVIUS O. ; MIRANDA, GUILLERMO ; MARTORELL, XAVIER ; AYGUADE, EDUARD ;TEODORO, GEORGE;MELO, ALBA CRISTINA MAGALHAES A.. CUDAlign 4.0: Incremental Speculative Traceback for Exact Chromosome-Wide Alignment in GPU Clusters. IEEE Transactions on Parallel and Distributed Systems (Print), v. 27, p. 2838-2850, 2016. $<->$ Sandes, Edans F. O.2016Sandes, Edans F. O.; BOUKERCHE, A. ;Melo, Alba Cristina Magalhaes Alves. Parallel Optimal Pairwise Biological Sequence Comparison. ACM Computing Surveys, v. 48, p. 1-36, 2016. $<->$ Leite, Alessandro Ferreira2016Leite, Alessandro Ferreira ; Boukerche, Azzedine ;ALVES DE MELO, ALBA CRISTINA MAGALHAES; EISENBEIS, CHRISTINE ; TADONKI, CLAUDE ; RALHA, CÉLIA GHEDINI . Power-aware server consolidation for federated clouds. Concurrency and Computation, v. 28, p. 3427-3444, 2016. $<->$ Weigang, Li2014Weigang, Li ;Sandes, Edans F. O.; ZHENG, JIANYA ;MELO, ALBA C. M. A.; UDEN, LORNA . Querying dynamic communities in online social networks. J ZHEJIANG U-SCI C, v. 15, p. 81-90, 2014. $<->$ SANDES, EDANS F. DE O.2014SANDES, EDANS F. DE O.;RALHA, CÉLIA G.;DE MELO, ALBA C.M.A.. An agent-based solution for dynamic multi-node wavefront balancing in biological sequence comparison. Expert Systems with Applications, v. 41, p. 4929-4938, 2014. $<->$ GUIMARAES, FELIPE PONTES2014GUIMARAES, FELIPE PONTES ;CÉLESTIN, PEDRO;BATISTA, DANIEL MACEDO; RODRIGUES, GENAÍNA NUNES ;DE MELO, ALBA CRISTINA MAGALHAES ALVES. A Framework for Adaptive Fault-Tolerant Execution of Workflows in the Grid: Empirical and Theoretical Analysis. Journal of Grid Computing, v. 12, p. 127-151, 2014. $<->$ SANDES, E.2013SANDES, E.;MELO, A. C. M. A.. Retrieving Smith-Waterman Alignments with Optimizations for Megabase Biological Sequences using GPU. IEEE Transactions on Parallel and Distributed Systems (Print), v. 24, p. 1009-1021, 2013. $<->$ Hamidouche, Khaled2013Hamidouche, Khaled ;Mendonca, Fernando Machado; Falcou, Joel ;Melo, Alba Cristina Magalhaes Alves; Etiemble, Daniel . Parallel Smith-Waterman Comparison on Multicore and Manycore Computing Platforms with BSP++. International Journal of Parallel Programming, v. 41, p. 111-136, 2013. $<->$ ARAUJO MACEDO, EMERSON2013ARAUJO MACEDO, EMERSON ;MAGALHAES ALVES DE MELO, ALBA CRISTINA;PFITSCHER, GERSON HENRIQUE; Boukerche, Azzedine . Multiple biological sequence alignment in heterogeneous multicore clusters with user-selectable task allocation policies. The Journal of Supercomputing (Dordrecht. Online), v. 63, p. 740-756, 2013. $<->$ Boukerche, Azzedine2012Boukerche, Azzedine ; BATISTA, RODOLFO BEZERRA ;DE MELO, ALBA CRISTINA MAGALHAES ALVES;SCAREL, FELIPE BRANDT; DE SOUZA, LAVIR ANTONIO BAHIA CARVALHO . EXACT PARALLEL ALIGNMENT OF MEGABASE GENOMIC SEQUENCES WITH TUNABLE WORK DISTRIBUTION. International Journal of Foundations of Computer Science, v. 23, p. 407-429, 2012. $<->$ Eusse, Juan Fernando2012Eusse, Juan Fernando ;Moreano, Nahri;DE MELO, ALBA CRISTINA MAGALHAES ALVES;Jacobi, Ricardo Pezzuol. A Protein Sequence Analysis Hardware Accelerator Based on Divergences. International Journal of Reconfigurable Computing (Print), v. 2012, p. 1-19, 2012. $<->$ Leite, Alessandro Ferreira2012Leite, Alessandro Ferreira ; Mendes, Hammurabi Chagas ; Weigang, Li ;Melo, Alba Cristina Magalhaes Alves; Boukerche, Azzedine . An architecture for P2P bag-of-tasks execution with multiple task allocation policies in desktop grids. Cluster Computing, v. 15, p. 351-361, 2012. $<->$ BOUKERCHE, A.2010BOUKERCHE, A. ;CORREA, J. M.;MELO, A. C. M. A.;JACOBI, R. P.. A Hardware Accelerator for Fast Retrieval of DIALIGN Biological Sequence Alignments in Linear Space. I.E.E.E. Transactions on Computers (Print), v. 59, p. 808-821, 2010. $<->$ SOUSA, M. S.2010SOUSA, M. S. ;MELO, A. C. M. A.; BOUKERCHE, A. . An adaptive multi-policy grid service for biological sequence comparison. Journal of Parallel and Distributed Computing (Print), v. 70, p. 160-172, 2010. $<->$ SANDES, E.2010SANDES, E.;MELO, A. C. M. A.. CUDAlign: Using GPU to Accelerate the Comparison of Megabase Genomic Sequences. SIGPLAN Notices (Cessou em 1991. Cont. ISSN 1523-2867 ACM SIGPLAN Notices), v. 45, p. 137-146, 2010. $<->$ BATISTA, Rodolfo B2008BATISTA, Rodolfo B; BOUKERCHE, A. ;MELO, A. C. M. A.. A parallel strategy for biological sequence alignment in restricted memory space. Journal of Parallel and Distributed Computing, v. 68, p. 548-561, 2008. $<->$ Crespo, A. M. F.2008Crespo, A. M. F.; Aquino, C. V. ; Souza, B. B. ;WEIGANG, L.;MELO, A. C. M. A.;Celestino, V. R. R.. Distributed decision support system applied to tactical air traffic flow management for the case of CINDACTA I. Journal of the Brazilian Air Transportation Research Society, v. 4, p. 47-60, 2008. $<->$ BOUKERCHE, A.2007BOUKERCHE, A. ;MELO, A. C. M. A.;AYALA-RINCON, M.;WALTER, Maria Emilia Telles. Parallel Strategies for Local Biological Sequence Alignment in a Cluster of Workstations. Journal of Parallel and Distributed Computing (Print), v. 67, p. 170-185, 2007. $<->$ BOUKERCHE, A.2007BOUKERCHE, A. ;MELO, A. C. M. A.;SANDES, E.;AYALA-RINCON, M.. An exact parallel algorithm to compare very long biological sequences in clusters of workstations. Cluster Computing, v. 10, p. 187-202, 2007. $<->$ DIB, M. V. P.2007DIB, M. V. P.;WEIGANG, L.;MELO, A. C. M. A.. Approach of Balancing of the Negotiation among Agents in Traffic Synchronization. Revista IEEE América Latina, v. 5, p. 338-345, 2007. $<->$ WEIGANG, L.2006WEIGANG, L.;DIB, M. V. P.;MELO, A. C. M. A.;ALVES, C. J. P.. Multi-Agents System by Grid Computing for Real Time Traffic Synchronization. Journal of the Brazilian Air Transportation Research Society, v. 2, p. 63-82, 2006. $<->$ BOUKERCHE, A.2006BOUKERCHE, A. ;MELO, A. C. M. A.. Integrating Coordinated Checkpointing and Recovery Mechanisms into DSM Synchronization Barriers. ACM Journal of Experimental Algorithmics, v. 11, p. 2.9, 2006. $<->$ RIBEIRO, Edward2005RIBEIRO, Edward ; ZERLOTINI, Gustavo ; LOPES, Irving ; RIBEIRO, Vitor ;MELO, A. C. M. A.;WALTER, Maria Emilia Telles; COSTA, M. M. . A distributed computation of Interpro Pfam, PROSITE and ProDom for protein annotation. Genetics and Molecular Research, Ribeirao Preto, v. 4, n.3, p. 590-598, 2005. $<->$ MELO, A. C. M. A.2004MELO, A. C. M. A.;WALTER, Maria Emilia Telles; MELO, Renata Cristina F ; SANTANA, Marcelo Nardelli Pinto ;BATISTA, Rodolfo B. Local DNA Sequence Alignment in a Cluster of Workstations: Algorithms and Tools. Journal of the Brazilian Computer Society, Porto Alegre, v. 10, n.2, p. 69-76, 2004.","Pedro Moraes e Souza. Federated Learning for Bioinformatics Applications.
+					Início: 2024.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasilia. (Orientador). $<->$ Vinicius Manoel Teixeira Ribeiro. Técnicas otimizadas de poda para busca paralela em grafos muito grandes.
+					Início: 2024.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasilia. (Orientador). $<->$ Filipe Maia Soares. Fault Tolerant Parallel Sequence Comparison Applications.
+					Início: 2022.
+					Dissertação (Mestrado profissional em Informática)  - Universidade de Brasília. (Orientador). $<->$ Ricardo Regis Cavalcante Chaves. Pruning Strategies for Multi-Device Sequence Comparison Applications.
+					Início: 2021. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Emerson de Araújo Macedo. Adaptive Patch Grid Strategy for Parallel Protein Folding using Atomic Burials with NAMD.
+					Início: 2020. Tese (Doutorado em Doutorado em Informática)  - Universidade de Brasilia. (Orientador). $<->$ Flavia Maria Lopes. Multiple Sequence Alignment in Restricted Memory.
+					Início: 2020. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Atila Sousa Fernandes. Execução Paralela Otimizada de Comparação de Sequências Biológicas em Clusters de GPUs. Início: 2024. Iniciação científica (Graduando em Ciência da Computação)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). $<->$ Helena Schubert Incarnação Silva. A Framework for Automated Parallel Execution of Scientific Multi-Workflow Applications in the Cloud with Work Stealing.
+						2024.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Rafael Alvares da Silva Lopes. Masa-StarPU: Estratégia com Múltiplas Políticas de Escalonamento de Tarefas para Alinhamento de Sequências com Pruning.
+						2020.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Caina Felipe Bento Razzolini. CUDA-Parttree: Estratégia Paralela em GPU para Alinhamento Múltiplo Heurístico de Milhares de Sequências.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Gabriel Heleno Goncalves da Silva. Comparação de Sequências Biológicas em Espaço Linear com Faixas de Computação.
+						2016.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marco Antônio Figueiredo. MASA-OpenCL: Comparação Paralela de Sequências Biológicas Longas em GPU.
+						2015.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Fernando Machado Mendonça. Comparação de Sequências Biológicas em Plataformas Híbridas de Alto Desempenho.
+						2013.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Daniel Sundfeld. Alinhamento Múltiplo de Sequências com Algoritmo Exato em GPU.
+						2012.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Edans Flávius de Oliveira Sandes. Comparação Paralela de Sequências Biológicas Longas utilizando Unidades de Processamento Gráfico (GPU).
+						2011.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Alisson Wilker Andrade Silva. Mecanismo de Negociação de Auditor de QoS para Grades baseado em WS-Agreement.
+						2011.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Emerson Macedo. Estratégia Distribuída Híbrida em Cluster Multicore Heterogeneo para Alinhamento Múltiplo de Sequências Biológicas com o DIALIGN-TX.
+						2010.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Felipe Pontes. Framework para Execucao Adaptativa e Tolerante a Falhas de Workflows em Grid.
+						2010.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Alessandro Ferreira Leite. Framework P2P para Execução de Tarefas Bag-of-Tasks com Múltiplas Políticas de Alocação em Ambientes Heterogêneos.
+						2010.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Lídia Araújo Miranda. Estratégia Paralela para Alinhamento Múltiplo de Sequências com Algoritmo Genético Multi-Ilha.
+						2009.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Glauber Scorsatto. GrAMoS: Serviço para a Monitoração de Acordos em Grid.
+						2007.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Rodolfo Bezerra Batista. Comparação Paralela Exata de Sequências Biológicas Longas com Uso Limitado de Memória.
+						2006.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo Nardelli Pinto Santana. Alocação de Tarefas Paralelas Comunicantes em Ambientes Distribuídos Heterogêneos.
+						2006.
+
+					Dissertação  (Mestrado em Mestrado em Informática)  - Departamento de Ciência da Computação UNB, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo da Silva Sousa. PackageBLAST: Serviço de Grade Adaptativo com Múltiplas Políticas de Alocação de Tarefas para Comparação de Sequências Biológicas.
+						2005.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Tânia Gomes Ramos. Mecanismo Extensível de Descoberta de Recursos em Ambiente de Computação em Grade.
+						2005.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Jeferson Gerson Koch. Mecanismos de Checkpointing Coordenado e Recuperação para Sistemas DSM.
+						2004.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Gustavo Jardim Portela. Escalonamento de Tarefas visando Balanceamento de Carga em Ambientes de Computação em Grade.
+						2004.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Glaucia Oliveira Dias. Integracao da Sincronia Virtual Otimista em um Servico de Comunicacao de Grupos CORBA.
+						2002. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Jan Mendonca Correa. Sistema Classificador para Escalonamento Dinâmico de Processadores.
+						2001. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Nilo Sergio Barros Silva. Visualizacao de Modelos de Consistencia Hibridos.
+						2000. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Cicero Roberto de Oliveira Galdino. Protocolos de Coerência Múltiplos em Sistemas DSM com Consistência do Escopo.
+						2000. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Simone Cintra Chagas. Visualização de Consistência de Memória Distribuída Compartilhada.
+						1999. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Carlos Antônio Campos Jorge.
+						Comparação Paralela de Sequências Biológicas em Plataformas de Hardware Uniformes e Híbridas.
+						2022. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marco Antonio Caldas de Figueiredo Junior.
+						Comparação Paralela de Sequências Biológicas em Múltiplas GPUs com Descarte de Blocos e Estratégias de Distribuição de Carga.
+						2021. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Gustavo Jardim Portella.
+						Precificação em Computação em Nuvem para Instâncias Permanentes e Transientes: Modelagem e Previsão.
+						2021. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Emerson de Araújo Macedo.
+						Alocação de Tarefas em Plataformas GPU-CPU de Alto Desempenho.
+						2018. Tese
+					 (Doutorado em Doutorado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Daniel Sundfeld.
+						Alinhamento Múltiplo Exato de Sequencias em Plataformas de Alto Desempenho.
+						2017. Tese
+					 (Doutorado em Doutorado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marco Antonio Caldas de Figueiredo Junior.
+						Comparação de Sequências Biológicas em Plataformas Híbridas com Balanceamento Dinâmico de Carga.
+						2016. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Edans Flávius de Oliveira Sandes.
+						Algoritmos Paralelos Exatos e Otimizações para Alinhamento de Sequências Biológicas Longas em Plataformas de Alto Desempenho.
+						2015. Tese
+					 (Doutorado em Doutorado em Informática)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Alessandro Ferreira Leite.
+						A User-Centered and Autonomic Multi-Cloud Architecture for High Performance Computing Applications.
+						2014. Tese
+					 (Doutorado em Doutorado em Informática)  - Universidade de Brasilia, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Jan Mendonça Correa.
+						Arquiteturas em FPGA para Comparação de Sequências Biológicas em espaço Linear.
+						2008. Tese
+					 (Doutorado em Doutorado em Engenharia Elétrica)  - Universidade de Brasilia, . Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Edans Flavius de Oliveira Sandes.
+						2017. Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Alba Cristina Magalhães Alves de Melo. $<->$ George Luiz Medeiros Teodoro.
+						2013. Universidade de Brasilia, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Alba Cristina Magalhães Alves de Melo. $<->$ Eduardo Freire Martins.
+						A-Star-RV e PA-Star-RV: Visualização da Execução das Ferramentas de Busca A-Star e PA-Star.
+						2024.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Matheus Augusto Pinho.
+						Alinhamento Paralelo de Sequências Biológicas com Poda Agilizada em GPU.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Matheus Trajano do Nascimento.
+						MAPA: Módulo Assíncrono para Aceleração de Poda da Ferramenta CUDAlign.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Phillipe Gustavo Ferreira.
+						MASA-SSE: Comparação de Sequencias Biológicas Utilizando Instruções Vetoriais.
+						2015.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Jacopo Bellati.
+						Interface Web para Execução do Algoritmo CUDAlign para Comparação de Sequencias Biológicas em GPU.
+						2014.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Guilherme Rodrigues Costa.
+						Comparação de Sequências Biológicas Utilizando Computação Heterogênea com OpenCL.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Licenciatura em Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Yuri do Amaral Nobre Maia.
+						Alinhamento Múltiplo de Sequências com Algoritmo Genético Paralelo em GPU.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Caio Cavalcanti de Aguiar Castro e Marcela Gomes Correa.
+						Alocação Guided Self-Scheduling para a Aplicação DIALIGN-TX em Clusters Heterogêneos com MPI/OpenMP.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Matheus Machado Monteiro.
+						Projeto e Avaliação de Política de Work Stealing em Framework P2P para Execução de Tarefas Independentes.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo Vale Asari.
+						Unidade de Controle para Aplicação de Comparação de Sequencias Biológicas Utilizando HMM na Plataforma Reconfigurável XD2000i.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Eduardo Cony de Cidade Freire.
+						Detecção de Colisão com o Ataque de Aniversário Aperfeiçoado em GPU.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Luiza da Silva Jacques.
+						Mecanismo de Comunicação Assíncrona para Alinhamento Múltiplo de Sequências com Algoritmo Genético Multi-Ilha.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Carlos Eduardo Horita e Douglas Ferlini Bastos Machado.
+						Interface Gráfica para a Comparação de Sequências Biológicas com o Z-align.
+						2010.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Felipe Brandt Scarel e Lavir Antônio Bahia Carvalho de Souza.
+						Estratégias de Distribuição de Trabalho para o Programa Paralelo z-Align.
+						2009.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Dennys Nadson Yusuki Batista e Frederico Oliveira de Paula.
+						Estratégia Paralela Tolerante a Falhas em Grid para a Execução da Aplicação PackageBLAST.
+						2009.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Antonio Francisco Osorio Junior e Bruno de Oliveira.
+						Adaptação do Serviço de Grade PackageBLAST para Processamento de Múltiplas Sequencias Biológicas.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Paula Moura Mattos e Paulo Renato Alves de Melo Castro.
+						Mecanismo de Rollback/Recovery para Aplicações de Bioinformática em Cluster.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Rafael Marques da Silva e Renan Correa Martina.
+						Integração de Aplicações de Grid ao Globus 4.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ André Paz Ferreira.
+						Avaliação de desempenho e Resultados do Aplicativo z-Align para Comparação de Sequencias Biológicas em Cluster.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Daniel Scandiuzzi e Leonardo Alves de Melo Neves.
+						Projeto, Implementação e Avaliação do Módulo Gerador de Relatórios na Execução do BLAST em Grid.
+						2006.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade de Brasilia. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Michelle Dias e Jean Silva.
+						Integração de Firewall a Ambientes de Computação em Grade.
+						2005. 106 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Convênio Musa Banco do Brasil. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Cesar de Oliveira Hiragi.
+						THOS: Protótipo de Sistema Operacional.
+						2005. 125 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo Baldez Américo.
+						Comparação Paralela de Sequências Biológicas.
+						2005. 75 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Hammurabi Mendes.
+						Gerenciamento e Reserva de Recursos em Ambientes Distribuídos.
+						2004. 82 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Glauber Scorsatto.
+						Estudo Teórico e Avaliação Prática do Ambiente Ibis de Computação em Grade.
+						2004. 82 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Leonardo Inacio Costa.
+						Biblioteca de Checkpoint para Linux.
+						2003. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Leonardo Nunes da Silva.
+						Um Mecanismo de Suporte a Tolerância a Falhas em Sistemas DSM baseados em Consistência do Escopo.
+						2002. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Rodolfo Batista Alerrandro Correa.
+						Projeto e Avaliacao de um Algoritmo Paralelo para a Obtencao de Arvores de Particao Binaria de Espaco.
+						2002. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Vinicius Ramos.
+						Grid-DF: Um ambiente de grid computing multi-organizacional para aplicações de bioinformática.
+						2002. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Gustavo Sousa e Edward Ribeiro.
+						Algortimos Meta-Heurísticos: Estudo de Caso no Problema do Caixeiro Viajante.
+						2001. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Luciana Rangel Santos, Vanessa Salomão, Viviane Abib.
+						AL - Analisador de Logs para Firewalls.
+						2000. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Geraldo Branquinho Junior.
+						Hermes: Aplicativo para Apoio Didático ao Curso de Sistemas Operacionais.
+						2000. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Antonio Marcelo A Alexandre.
+						Sistema de Video-on-Demand Distribuído.
+						2000. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ André Luiz Vitorino.
+						Projeto e Implementação de um Sistema de Reserva de Partições para Sistemas DSM.
+						2000. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Joao Rafael Moraes Nicola.
+						JOS - Um Protótipo de Sistema Operacional.
+						2000. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ João Afonso de Souza Oliveira.
+						Tolerância a Falhas em Ambiente de Computação de Alto Throughput - Estudo de Caso para o Condor.
+						1999. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ David Baker Shashoua, Elson Oliveira, Frederico Nardotto.
+						Algoritmos Genéticos na Resolução de Problemas NP-Completos: três estudos de caso.
+						1999. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Alexandro Carvalho, Gregory de Castro.
+						Configuração Dinâmica de Regras do Driver Intermediário da NDIS Gryphon.
+						1999. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Wagner Araújo.
+						Investware: Sistema de Suporte à Decisão de Investimentos.
+						1998. 0 f.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em Ciência da Computação)  - Universidade de Brasília. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Edans Flavius de Oliveira Sandes.
+						Comparação Paralela Exata de Sequências Biológicas.
+						2005.
+						Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação)  - Departamento de Ciência da Computação UNB,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo Nardelli.
+						Comparação de Sequencias Biológicas com Algoritmo Distribuído.
+						2003. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Diego Aranha.
+						Determinação de Possíveis Ordens de Execução de um Programa em DSM com Modelo de Consistência Seqüencial.
+						2002. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Hammurabi Mendes.
+						Determinação de Possíveis Ordens de Execução de um Programa em DSM com Modelo de Consistência PipelinedRAM.
+						2002. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Danilo Custódio.
+						Visualização Gráfica de Ordenamentos em Sistemas DSM.
+						2001. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Marcelo Silva Sousa.
+						Serviço de Comunicação Eficiente para Suporte a Sistemas de Memória Distribuída Compartilhada.
+						2000. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo. $<->$ Luciano Viana Costa.
+						Serviço de Escalonamento de Processadores em Redes de Computadores.
+						2000. 0 f.
+						Iniciação Científica. (Graduando em Bacharelado Em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Alba Cristina Magalhães Alves de Melo."

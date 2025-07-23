@@ -1,0 +1,159 @@
+Nome,Lattes ID,Resumo,Formação acadêmica/titulação,Áreas de atuação,Idiomas,Prêmios e títulos,Produções,Orientações
+Cláudia Nalon,7793795625581127,"possui graduação em Ciência da Computação pela Universidade de Brasília (1993), mestrado em Ciência da Computação pela Universidade Estadual de Campinas (1997) e doutorado em Ciência da Computação pela University of Liverpool (2004). Atualmente é professora titular da Universidade de Brasília, tendo atuado como Coordenadora de Graduação do Bacharelado em Ciência da Computação e como Coordenadora de Extensão do Instituto de Ciências Exatas. Atua na área de Teoria da Computação, com interesse, principalmente, em métodos de prova baseados em resolução para combinações de lógicas não-clássicas. É membro fundadora do Grupo de Interesse em Lógica da Sociedade Brasileira de Computação, fazendo parte de seu comitê gestor. Fez parte de duas diretorias da Sociedade Brasileira de Lógica (2017-2019,2019-2021). É membro dos grupos de pesquisa em Teoria da Computação (unB) e Tec-MF-Logic Reasoning (pUC-Rio). Fez parte do comitê gestor da conferência internacional LSFA. É membro eleita dos comitês gestores de duas conferências internacionais: TABLEAUX e CADE.(Texto informado pelo autor)","Data: 1999 - 2004. Doutorado em Ciência da Computação.University of Liverpool, LIVERPOOL, Inglaterra.Título: Resolution for Synchrony and No Learning, Ano de obtenção: 2004.Orientador: Clare Dixon and Michael Fisher.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.Palavras-chave: ARTIFICIAL INTELLIGENCE; THEOREM PROVING; MODAL LOGICS OF KNOWLEDGE AND BELIEF; TEMPORAL LOGICS; INTERACTION BETWEEN LOGICS; MULTI-AGENT AND DISTRIBUTED SYSTEMS.Grande área: Ciências Exatas e da Terra $<->$ Data: 1995 - 1997. Mestrado em Ciência da Computação.Universidade Estadual de Campinas, UNICAMP, Brasil.Título: Lógica Condicional ForteO Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações., Ano de Obtenção: 1997.Orientador: Jacques Wainer.Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.Palavras-chave: Lógicas Nao-Monotônicas; Lógicas Condicionais; Representação de Conhecimento; Inteligência Artificial; Raciocínio.Grande área: Ciências Exatas e da Terra $<->$ Data: 1988 - 1993. Graduação em Ciência da Computação.Universidade de Brasília, UnB, Brasil.Título: RECONHECIMENTO DE FONEMAS OCLUSIVO-SURDOS DA LÍNGUA PORTUGUESA USANDO REDES NEURAIS AUTO-ORGANIZÁVEIS.Orientador: MARIA EMÍLIA MACHADO TELLES WALTER.Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.",Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Lógicas e Semântica de Programas. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação.,"Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Espanhol: Compreende Razoavelmente, Lê Razoavelmente.","1998: TERCEIRO LUGAR (CATEGORIA MESTRADO) - I CONCURSO DE TESES E DISSERTAÇÕES EM INTELIGÊNCIA ARTIFICIAL, IBERAMIA'98 - VI CONFERÊNCIA ÍBERO-AMERICANA DE INTELIGÊNCIA ARTIFICIAL.","Papacchini, Fabio2022Papacchini, Fabio ;Cláudia Nalon; HUSTADT, ULLRICH ;DIXON, Clare. Local is Best: Efficient Reductions to Modal Logic K. JOURNAL OF AUTOMATED REASONING, v. 1, p. 1, 2022. $<->$ LOPES, BRUNO2021LOPES, BRUNO;NALON, C.;HAEUSLER, E. H.. Reasoning about Petri nets: a calculus based on Resolution and Dynamic Logic. ACM Transactions on Computational Logic, v. 22, p. 1-22, 2021. $<->$ NALON, CLÁUDIA2019NALON, CLÁUDIA;DIXON, Clare;HUSTADT, U.. Modal Resolution. ACM Transactions on Computational Logic, v. 20, p. 1-38, 2019. $<->$ Nalon, Cláudia2018Nalon, Cláudia; HUSTADT, ULLRICH ;DIXON, Clare. A Resolution-Based Theorem Prover for $${	extsf {K}}_{n}^{}$$Kn: Architecture, Refinements, Strategies and Experiments. Journal of Automated Reasoning (Dordrecht. Online), v. 64, p. 461-484, 2018. $<->$ Marcos, João2016Marcos, João;Nalon, Cláudia. Classical Resolution for Many-Valued Logics. Electronic Notes in Theoretical Computer Science, v. 323, p. 253-270, 2016. $<->$ Nalon, Cláudia2015Nalon, Cláudia;LOPES, BRUNO; DOWEK, GILLES ;HAEUSLER, EDWARD HERMANN. A Calculus for Automatic Verification of Petri Nets Based on Resolution and Dynamic Logics. Electronic Notes in Theoretical Computer Science, v. 312, p. 125-141, 2015. $<->$ NALON, C.2014NALON, C.;ZHANG, L.;DIXON, Clare;HUSTADT, U.. A resolution-based calculus for Coalition Logic. Journal of Logic and Computation (Print), v. 24, p. 883-917, 2014. $<->$ NALON, CLÁUDIA2014NALON, CLÁUDIA; ZHANG, LAN ;DIXON, Clare; HUSTADT, ULLRICH . A Resolution Prover for Coalition Logic. Electronic Proceedings in Theoretical Computer Science, v. 146, p. 65-73, 2014. $<->$ NALON, C.2014NALON, C.; Kutz, O. . Towards Resolution-based Reasoning for Connected Logics. Electronic Notes in Theoretical Computer Science, v. 305, p. 85-102, 2014. $<->$ NALON, C.2007NALON, C.;DIXON, Clare. Clausal Resolution for Normal Modal Logics. Journal of Algorithms, v. 62, p. 117-134, 2007. $<->$ DIXON, Clare2004DIXON, Clare;NALON, C.;FISHER, Michael. Tableaux for logics of time and knowledge with interactions relating to synchrony. Journal of Applied Non-Classical Logics, Paris, France, v. 14, n.4, p. 397-445, 2004.","Guilherme Veloso Neves Oliveira. Automação de Redução Polinomial para Problemas em NP.
+					Início: 2020.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Lucelia Vieira Mota. Caracterização de Problemas de Alocação como Problemas de Satisfação Pseudo-Booleanos: Estudo de Caso.
+					Início: 2020.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Michel Veiga de Leite Ribeiro Melo. Automatização da Metateoria de Lógicas Modais.
+					Início: 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Universidade de Brasília. (Orientador). $<->$ Annelise Schulz dos Santos. Pensamento Computacional para Crianças.
+					Início: 2019. Trabalho de Conclusão de Curso (Graduação em Computação -- Licenciatura)  - Universidade de Brasília. (Orientador). $<->$ Felipe Rodopoulos de Oliveira. Verification of the Dynamic Authorization Protocol.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Cláudia Nalon. $<->$ Lucas de Moura Amaral. A resolution-based E-connected calculus.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Cláudia Nalon. $<->$ Daniella Albuquerque dos Angelos. Combining Clause Learning and Resolution for Multimodal Reasoning.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Cláudia Nalon. $<->$ Thiago Coelho Vieira. Um Provador de Teoremas baseado em Tableaux para Verificação de Propriedades em Lógicas Temporais de Conhecimento ou Crença.
+						2015.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Cláudia Nalon. $<->$ Karen Lima Macêdo.
+						Implementação da Combinação de Métodos de Prova Automática de Teoremas para Lógicas Modais.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Rafael Monteiro Rodrigues.
+						Lidando com a legibilidade de provas em Isabelle.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ João Victor Cabral de Melo.
+						Preprocessamento de cláusulas para raciocínio local e global no KSP.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ José Marcos Leite.
+						Implementação de Técnicas de Seleção de Cláusulas em um Provador de Teoremas Modais.
+						2020.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Boris Marinho Ramos Silva Araujo.
+						Prova Automática de Teoremas para Lógicas Confluentes.
+						2020.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Matheus Bastos de Castro.
+						Provas de Teoremas em Lógicas Multivaloradas.
+						2017.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Matheus Costa de Sousa Carvalho Pimenta.
+						Um algoritmo baseado em programação dinâmica e renomeamento para minimização de formas normais.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ André Belle Menezes.
+						Métodos Polinomiais para Simplificação de Fórmulas Modais.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Daniella Albuquerque dos Angelos.
+						Tableaux Clausal para Lógica Modal.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ George Bezerra Silva.
+						Implementação de um provador de teoremas por resolução para lógicas modais normais.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Thiago Coelho Vieira.
+						Especificação de Propriedades Temporais do Protocolo Needham-Schröeder.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Guilherme Juscelino de Sousa Morato.
+						Especificação do Algoritmo da Transformada Rápida de Fourier Implementada em um Dispositivo Reconfigurável usando Lógica Temporal: Estudo de Caso.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Bruno Azevedo Vilela.
+						Análise de Complexidade de Espaço de um Algoritmo de K1-Validade.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ ANDRÉ QUEIROZ LACERDA E SILVA.
+						Verificação Formal com Lógica Temporal e Epistêmica.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Daniel Moura da Silva.
+						Tradução de Circuitos Combinacionais Descritos em VHDL para a Lógica Proposicional.
+						2009.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Leonardo da Silva Borges.
+						Heurísticas para Resolução de Ontologias Conflitantes.
+						2009.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Rodrigo Otávio Ribeiro Hagstrom.
+						A Tecnologia de Identificação por Radiofreqüência e os seus Riscos à Privacidade.
+						2008.
+						Trabalho de Conclusão de Curso. (Graduação em Computação -- Licenciatura)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Euclides José Lima Velloso.
+						Ferramenta para Facilitação de Benchmarking.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Cleilton Soares de Moura.
+						Verificação de Hardware Combinacional.
+						2007.
+						Trabalho de Conclusão de Curso. (Graduação em Computação -- Licenciatura)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Frederico Soares Canêdo.
+						Comparação entre Formas Normais para Lógicas Epistêmicas.
+						2006.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Vitor Choi Feitosa.
+						Otimização de Fórmulas da Lógica Proposicional Usando Grafos Acíclicos Dirigidos.
+						2006.
+						Trabalho de Conclusão de Curso. (Graduação em Computação -- Licenciatura)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Lidia Araujo Miranda.
+						Verificação de Hardware Utilizando Lógics: Estudos de Caso.
+						2006.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Joao Lucas Sales Aragão.
+						Produção de Conjuntos de Testes para Provadores Modais.
+						2023.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Cláudia Nalon. $<->$ Maria Julia Dias Lima.
+						Formalização de Resultados Metateóricos em Assistente de Provas: sintaxe e semântica da lógica multimodal.
+						2021.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Karen Lima Macêdo.
+						Implementação de Interfaces para Raciocínio Local e Global em um Provador Automático de Teoremas para Lógicas Modais.
+						2021.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Maria Júlia Dias Lima.
+						Formalização de Resultados Metateóricos em Assistente de Provas: sintaxe e semântica da lógica multimodal.
+						2020.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Karen Lima Macêdo.
+						Implementação de Interfaces para Raciocínio Local e Global em um Provador Automático de Teoremas para Lógicas Modais.
+						2020.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Boris Marinho Ramos Silva Araujo.
+						Prova Automática de Teoremas para Lógicas Confluentes.
+						2020.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Ricardo Arôso Mendes Kury.
+						Extensão de um provador de teoremas modais: lógicas confluentes.
+						2018.
+						Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Cláudia Nalon. $<->$ José Marcos da Silva Leite.
+						Geração Automática de Modelos em Lógicas Modais: Implementação.
+						2016.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Cláudia Nalon. $<->$ Daniella Albuquerque dos Angelos.
+						Geração Automática de Modelos em Lógicas Modais: Implementação.
+						2015.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Cláudia Nalon. $<->$ André Belle Menezes.
+						Provadores de Teoremas para Lógicas Modais: Implementação e Avaliação Experimental.
+						2015.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Cláudia Nalon. $<->$ Dayanne Fernandes da Cunha.
+						Prova de Teoremas para Lógicas Modais Normais: Avaliação Experimental.
+						2014.
+						Iniciação Científica. (Graduando em Computação -- Licenciatura)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ João Lucas Sales Aragão.
+						CIC0377 - MONITORIA EM LÓGICA COMPUTACIONAL 1.
+						2022.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ João Victor Cabral de Melo.
+						CIC0377 - MONITORIA EM LÓGICA COMPUTACIONAL 1.
+						2022.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ João Victor Cabral de Melo.
+						CIC0377 - MONITORIA EM LÓGICA COMPUTACIONAL 1.
+						2022.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ João Lucas Sales Aragão.
+						CIC0377 - MONITORIA EM LÓGICA COMPUTACIONAL 1.
+						2022.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Adriano Rodrigues Figueiredo Torres.
+						Monitoria II - CIC0106 - Tradutores.
+						2021.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Felipe Rodopoulos de Oliveira.
+						Estágio Docência II - CIC 116459 - Tradutores.
+						2018.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Vitor Coimbra de Oliveira.
+						Monitoria II - CIC 116459 - Tradutores.
+						2016.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ José Luis Soncco Alvarez.
+						Estágio Docência II - CIC 116459 - Tradutores.
+						2015.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Deborah Mendes Ferreira.
+						Estágio Docência II - CIC 116459 - Tradutores.
+						2015.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Luciano Henrique de Oliveira Santos.
+						Estágio Docência II - CIC 116459 - Tradutores.
+						2014.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon. $<->$ Thiago Coelho Vieira.
+						Estágio Docência II - CIC 117366 - Lógica Computacional 1.
+						2014.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília. Orientador: Cláudia Nalon."

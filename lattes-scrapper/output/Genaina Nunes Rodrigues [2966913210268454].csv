@@ -1,0 +1,301 @@
+Nome,Lattes ID,Resumo,Formação acadêmica/titulação,Áreas de atuação,Idiomas,Prêmios e títulos,Produções,Orientações
+Genaina Nunes Rodrigues,2966913210268454,"Genaina Rodrigues is an associate professor in the Department of Computer Science at the University of Brasília since 2009. She received her Ph.D. in Computer Science from University College London in 2008. Previously, she obtained her bachelor degree in Computer Science from the University of Brasília in 1999 and her Master's Degree inComputer Science from the Federal University of Pernambuco in 2002. Her research interests are mostly in self-adaptive cyber physical systems including the mutual collaboration in the synthesis of adaptation strategies following control-theoretical principles through formal verification and AI and their interplay with goal-oriented requirements engineering. In 2013, she co-organized the premier Brazilian Software Engineering Congress (CBSoft) of the Brazilian Computer Society (SBC). In 2020, she was awarded a fellowship as an experienced researcher through CAPES/Alexander von Humboldt Program to conduct research at the Humboldt Universität zu Berlin with Prof. Lars Grunske and PhD Dr. Thomas Vogel. She has been awarded in various key venues in Software Engineering. In 2024 she was awarded distinguished paper award at the prestigious ACM/IEEE International Conference on Software Engineering (ICSE) and with the best paper award at the ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS). In 2019 she was awarded the Most Influential Paper at the SBC Brazilian Symposium on Components, Architecture and Reuse (SBCARS). Throughout her career, she has (co-)supervised over 12 master dissertations and 5 PhD thesis. And she has served at national and international program committees such as the ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), ACM Symposium on the Foundations of Software Engineering (FSE), IEEE International Conference on Software Architecture (ICSA), Brazilian Symposium on Software Engineering (SBES), Brazilian Symposium on Components, Architecture and Reuse (SBCARS) and as reviewer of international world class journals such as IEEE Transactions on Software Engineering (TSE), The Journal of Systems and Software (JSS), Information and Software Technology (IST) to mention a few.(Texto informado pelo autor)","Data: 2002 - 2008. Doutorado em Computer Science.University College of London, UCL, Inglaterra.Título: A Model Driven Approach for Software Reliability Prediction, Ano de obtenção: 2008.Orientador: David Rosenblum.Coorientador: Sebastian Uchitel.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. $<->$ Data: 2000 - 2002. Mestrado em Ciências da Computação.Universidade Federal de Pernambuco, UFPE, Brasil.Título: UORB - A Comprehensive CORBA Model for Embedded Systems, Ano de Obtenção: 2002.Orientador:Carlos André Guimarães Ferraz. $<->$ Data: 1993 - 1999. Graduação em Ciência da Computação.Universidade de Brasília, UnB, Brasil.Título: Javaflow.Orientador: Fernando Chacon Albuquerque.",Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação/Especialidade: Modelos Analíticos e de Simulação.,"Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.","2024: Best paper award at the International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), ACM. $<->$ 2024: Distinguished paper award at the International Conference on Software Engineering (ICSE), ACM. $<->$ 2021: Outstanding Reviewer Award in ACSOS'21 (IEEE International Conference on Autonomic Computing and Self-Organizing Systems), IEEE. $<->$ 2020: Experienced Research Fellow, CAPES/Alexander von Humboldt Foundation (AvH). $<->$ 2019: Most Influential Paper of SBCARS 2010 (Ten-year impact), SBC. $<->$ 2019: Honorable Mention to Science Initiation Project of Gabriel Levi Gomes da Silva (PIBIC supervised student), University of Brasilia. $<->$ 2019: Honorable Mention to Science Initiation Project of Léo Moraes da Silva (PIBIC supervised student), University of Brasilia. $<->$ 2017: Visiting Professor Scholarship, University of Toulouse Jean Jaurès/IRIT. $<->$ 2016: Invited WSCAD 2016 paper for CPE journal, SBC. $<->$ 2016: Invited speaker, Swedish Academic Collaboration Forum, MCTI/CNPq, CAPES. $<->$ 2015: Among best papers of ER 2015, SPRINGER. $<->$ 2010: Among best papers of SBCARS 2010, SBC. $<->$ 2002: Bolsa de Doutorado Pleno no Exterior, CAPES.","COSTA DE ARAUJO, JOÃO PAULO2024COSTA DE ARAUJO, JOÃO PAULO ;Rodrigues, Genaína Nunes; CARWEHL, MARC ; VOGEL, THOMAS ; GRUNSKE, LARS ; CALDAS, RICARDO ; PELLICCIONE, PATRIZIO . Explainability for Property Violations in Cyber-Physical Systems: An Immune-Inspired Approach. IEEE SOFTWARE, v. 41, p. 43-51, 2024. $<->$ CALINESCU, RADU2024CALINESCU, RADU ; IMRIE, CALUM ; MANGAL, RAVI ;Rodrigues, Genaína Nunes; P'S'REANU, CORINA ; SANTANA, MISAEL ALPIZAR ; VÁZQUEZ, GRICEL . Controller Synthesis for Autonomous Systems with Deep-Learning Perception Components. Ieee Transactions On Software Engineering, v. 50, p. 1374-1395, 2024. $<->$ CALDAS, RICARDO2024CALDAS, RICARDO ; PIÑERA GARCÍA, JUAN ANTONIO ; SCHIOPU, MATEI ; PELLICCIONE, PATRIZIO ;RODRIGUES, GENAÍNA; BERGER, THORSTEN . Runtime Verification and Field-based Testing for ROS-based Robotic Systems. Ieee Transactions On Software Engineering, v. 50, p. 2544-2567, 2024. $<->$ VOGEL, THOMAS2023VOGEL, THOMAS ; CARWEHL, MARC ;Rodrigues, Genaína Nunes; GRUNSKE, LARS . A property specification pattern catalog for real-time system verification with UPPAAL. INFORMATION AND SOFTWARE TECHNOLOGY, v. 154, p. 107100, 2023. $<->$ GIL, ERIC BERND2023GIL, ERIC BERND ;Rodrigues, Genaína Nunes; PELLICCIONE, PATRIZIO ; CALINESCU, RADU . Mission specification and decomposition for multi-robot systems. ROBOTICS AND AUTONOMOUS SYSTEMS, v. 163, p. 104386, 2023. $<->$ SILVA, GEOVANA RAMOS SOUSA2023SILVA, GEOVANA RAMOS SOUSA ;Rodrigues, Genaína Nunes; CANEDO, EDNA DIAS . A Modeling Strategy for the Verification of Context-Oriented Chatbot Conversational Flows via Model Checking. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, v. 29, p. 805-835, 2023. $<->$ WEYNS, DANNY2023WEYNS, DANNY ; CALINESCU, RADU ; MIRANDOLA, RAFFAELA ; TEI, KENJI ; ACOSTA, MARIBEL ; BENNACEUR, AMEL ; BOLTZ, NICOLAS ; BURES, TOMAS ; CAMARA, JAVIER ; DIACONESCU, ADA ; ENGELS, GREGOR ; GERASIMOU, SIMOS ; GEROSTATHOPOULOS, ILIAS ; GETIR YAMAN, SINEM ; GRASSI, VINCENZO ; HAHNER, SEBASTIAN ; LETIER, EMMANUEL ; LITOIU, MARIN ; MARSSO, LINA ;RODRIGUES, G. N.; et.al . Towards a Research Agenda for Understanding and ManagingUncertainty in Self-Adaptive Systems. SOFTWARE ENGINEERING NOTES, v. 48, p. 20-36, 2023. $<->$ RODRIGUES, GABRIEL2022RODRIGUES, GABRIEL ; CALDAS, RICARDO ; ARAUJO, GABRIEL ; DE MORAES, VICENTE ;RODRIGUES, GENAÍNA; PELLICCIONE, PATRIZIO . An architecture for mission coordination of heterogeneous robots. JOURNAL OF SYSTEMS AND SOFTWARE, v. 191, p. 111363, 2022. $<->$ WEYNS, DANNY2022WEYNS, DANNY ; GEROSTATHOPOULOS, ILIAS ; BUHNOVA, BARBORA ; CARDOZO, NICOLÁS ; CIOROAICA, EMILIA ; DUSPARIC, IVANA ; GRUNSKE, LARS ; JAMSHIDI, POOYAN ; JULIEN, CHRISTINE ; MICHAEL, JUDITH ; MORENO, GABRIEL ; NEJATI, SHIVA ; PELLICCIONE, PATRIZIO ; QUIN, FEDERICO ;RODRIGUES, GENAINA; SCHMERL, BRADLEY ; VIEIRA, MARCO ; VOGEL, THOMAS ; WOHLRAB, REBEKKA . Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation. SOFTWARE ENGINEERING NOTES, v. 47, p. 18-24, 2022. $<->$ PORTELLA, GUSTAVO JARDIM2021PORTELLA, GUSTAVO JARDIM ;Rodrigues, Genaina Nunes; NAKANO, EDUARDO YOSHIO ; BOUKERCHE, AZZEDINE ; MELO, ALBA CRISTINA MAGALHAES . A Novel Statistical and Neural Network Combined Approach for the Cloud Spot Market. IEEE TRANSACTIONS ON CLOUD COMPUTING, v. 11, p. 278-290, 2021. $<->$ PORTELLA, GUSTAVO2019PORTELLA, GUSTAVO ;RODRIGUES, GENAINA N.; NAKANO, EDUARDO ; MELO, ALBA C.M.A. . Statistical analysis of Amazon EC2 cloud pricing models. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 31, p. e4451, 2019. $<->$ DE FIGUEIREDO, MARCO ANTONIO C.2019DE FIGUEIREDO, MARCO ANTONIO C. ; DE OLIVEIRA SANDES, EDANS F. ;RODRIGUES, GENAINA N.; TEODORO, GEORGE L. M. ; DE MELO, ALBA CRISTINA M. A. . MASA-OpenCL: Parallel pruned comparison of long DNA sequences with OpenCL. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 31, p. e5039, 2019. $<->$ RODRIGUES, GABRIEL S.2019RODRIGUES, GABRIEL S. ; GUIMARÃES, FELIPE P. ;RODRIGUES, GENAÍNA N.; KNAUSS, ALESSIA ; DE ARAÚJO, JOÃO PAULO C. ; ANDRADE, HUGO ; ALI, RAIAN . GoalD: A Goal-Driven Deployment Framework for Dynamic and Heterogeneous Computing Environments. INFORMATION AND SOFTWARE TECHNOLOGY, v. 111, p. 159-176, 2019. $<->$ RODRIGUES, ARTHUR2019RODRIGUES, ARTHUR ;Rodrigues, Genaína Nunes; KNAUSS, ALESSIA ; ALI, RAIAN ; ANDRADE, HUGO . Enhancing Context Specifications for Dependable Adaptive Systems: A Data Mining Approach. INFORMATION AND SOFTWARE TECHNOLOGY, v. 112, p. 115-131, 2019. $<->$ DE MELO, CAIO BATISTA2019DE MELO, CAIO BATISTA ; CANÇADO, ANDRÉ LUIZ FERNANDES ;Rodrigues, Genaína Nunes. Characterization of Implied Scenarios as Families of Common Behavior. JOURNAL OF SYSTEMS AND SOFTWARE, p. 110425, 2019. $<->$ LANNA, ANDRÉ2018LANNA, ANDRÉ ; CASTRO, THIAGO ; Alves, Vander ;RODRIGUES, GENAINA; SCHOBBENS, PIERRE-YVES ; APEL, SVEN . Feature-family-based reliability analysis of software product lines. INFORMATION AND SOFTWARE TECHNOLOGY, v. 94, p. 59-81, 2018. $<->$ PESSOA, LEONARDO2017PESSOA, LEONARDO ; FERNANDES, PAULA ; CASTRO, THIAGO ; Alves, Vander ;RODRIGUES, GENAÍNA N.; CARVALHO, HERVALDO . Building reliable and maintainable Dynamic Software Product Lines: An investigation in the Body Sensor Network domain. Information and Software Technology, v. 86, p. 54-70, 2017. $<->$ GUIMARAES, F. P.2017GUIMARAES, F. P.;RODRIGUES, G. N.; ALI, R. ;BATISTA, D. M.. Planning runtime software adaptation through pragmatic goal model. DATA & KNOWLEDGE ENGINEERING, v. 109, p. 25-40, 2017. $<->$ LEITE, A. F.2017LEITE, A. F. ; ALVES, V. ;RODRIGUES, G. N.; TADONKI, C. ; EISENBEIS, C. ; MELO, A. C. M. A. . Dohko: an autonomic system for provision, configuration, and management of inter-cloud environments based on a software product line engineering method. Cluster Computing-The Journal of Networks Software Tools and Applications, v. 20, p. 1951-1976, 2017. $<->$ MENDONÇA, DANILO FILGUEIRA2016MENDONÇA, DANILO FILGUEIRA ;NUNES RODRIGUES, GENAÍNA; ALI, RAIAN ; Alves, Vander ; BARESI, LUCIANO . GODA: A goal-oriented requirements engineering framework for runtime dependability analysis. Information and Software Technology, v. 80, p. 245-264, 2016. $<->$ LARANJEIRA, L.2014LARANJEIRA, L.;RODRIGUES, G. N.. Border Effect Analysis for Reliability Assurance and Continuous Connectivity of Wireless Sensor Networks in the Presence of Sensor Failures. IEEE Transactions on Wireless Communications, v. 13, p. 4232-4246, 2014. $<->$ GUIMARAES, FELIPE PONTES2014GUIMARAES, FELIPE PONTES ;CÉLESTIN, PEDRO;BATISTA, DANIEL MACEDO;Rodrigues, Genaína Nunes; DE MELO, ALBA CRISTINA MAGALHAES ALVES . A Framework for Adaptive Fault-Tolerant Execution of Workflows in the Grid: Empirical and Theoretical Analysis. Journal of Grid Computing, v. 12, p. 127-151, 2014. $<->$ RODRIGUES, G. N.2012RODRIGUES, G. N.;ALVES, V. R.; Silveira, Renato ;LARANJEIRA, L.. Dependability analysis in the Ambient Assisted Living Domain: An exploratory case study. The Journal of Systems and Software, v. 85, p. 112-131, 2012. $<->$ CALDAS, RICARDO2024CALDAS, RICARDO ; PIÑERA GARCÍA, JUAN ANTONIO ; SCHIOPU, MATEI ; PELLICCIONE, PATRIZIO ;RODRIGUES, GENAÍNA; BERGER, THORSTEN . Runtime Verification and Field-based Testing for ROS-based Robotic Systems. Ieee Transactions On Software Engineering, v. 50, p. 2544-2567, 2024.","Pedro Henriques Nogueira. To be defined.
+					Início: 2024.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Vicene Romeiro de Moraes. To be defined.
+					Início: 2024.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). $<->$ Manoel Vieira Coelho Neto. To be defined.
+					Início: 2023.
+					Dissertação (Mestrado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Everaldo Silva Júnior. To be defined.
+					Início: 2023. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Renato Edésio Rodrigues de Paiva. To be defined.
+					Início: 2022. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Sigfredo Farias Rocha. To be defined.
+					Início: 2021. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Gabriel Siqueira Rodrigues. An Architecture for Mission Coordination of Heterogeneous Robots.
+					Início: 2019. Tese (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). $<->$ Mateus Oliveira Santos. Implementação de Testes de Comportamento para Ambientes de Simulação de Sistemas Multi-Robôs. Início: 2024. Iniciação científica (Graduando em Ciência da Computação)  - Universidade de Brasília. (Orientador). $<->$ Gabriel Brito de França. Modernização da Self-Adaptive Body Sensor Network para o ROS 2. Início: 2024. Iniciação científica (Graduando em Ciência da Computação)  - Universidade de Brasília, Fundação de Apoio à Pesquisa do Distrito Federal. (Orientador). $<->$ Lurian Correia Lima. Implementação de Skills de Braço Robóticos para Missões Autoadaptativas de Sistemas Multi-Robôs. Início: 2024. Iniciação científica (Graduando em Ciência da Computação)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). $<->$ Gabriel Frutuoso Pereira Araújo. Trace-Diagnostic for Signal Temporal Properties: An Evolutionary Approach.
+						2024.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Tess Pappert. Benchmarking Multi-objective Controllers for Self-adaptive Systems.
+						2024.
+
+					Dissertação  (Mestrado em Institut für Informatik)  - Humboldt-Universität Zu Berlin, . Orientador: Genaina Nunes Rodrigues. $<->$ Danilo José Bispo Galvão. An Approach for High-Level Multi-Robot Mission Verification in UPPAAL.
+						2023.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ João Paulo Costa de Araújo. Enhancing Runtime Monitors of Cyber-Physical Systems using Negative Selection.
+						2022.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Eric Bernd Gil. MutRoSe: A Goal-Oriented Framework for MissionSpecification and Decomposition of Multi-RobotSystems.
+						2021.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Marc Carwehl. Non-Intrusive Monitoring of a Self-Adaptive System.
+						2021.
+
+					Dissertação  (Mestrado em Institut für Informatik)  - Humboldt-Universität Zu Berlin, . Coorientador: Genaina Nunes Rodrigues. $<->$ Rafael Fazzolino Pinto Barbosa. Feature-Trace: Generating Operational Profile and Supporting Testing Prioritization from BDD Features.
+						2020.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Gabriela Félix Solano. A Goal-Oriented Approach to Support the Assurance Process of Self-Adaptive Systems under Uncertainty.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Ricardo Diniz Caldas. An Architecture to Support Control Theoretical-based Verification of Goal-Oriented Adaptation Engines.
+						2019.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Caio Batista de Melo. Characterization of Implied Scenarios as Families of  Common Behavior.
+						2018.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Arthur J. R. Farias. Integrating Data Mining into Contextual Goal Modeling to Tackle Context Uncertainties at Design Time.
+						2017.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Sigfredo Farias Rocha. An Architecture Conformance Process for Software Ecosystems with Heterogeneous Languages.
+						2017.
+
+					Dissertação  (Mestrado em Computação Aplicada)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Fabio Leal Barros. Uma Abordagem Usando Features BDD e Modelo de Objetivos para o Desenvolvimento Ágil de Software.
+						2017.
+
+					Dissertação  (Mestrado em Computação Aplicada)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Danilo Filgueira Mendonça. Dependability Verification for Contextual-Runtime Goal Modelling.
+						2015.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Thiago Peixoto dos Reis. Utilização de cenários implícitos para criação de testes baseados em modelos no contexto de sistemas concorrentes.
+						2015.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Renato Edésio Rodrigues de Paiva. Reconstrução de Visões Arquiteturais de Software por Meio de Técnicas de Análise Estática.
+						2015.
+
+					Dissertação  (Mestrado em PPGA)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Gabriel Siqueira Rodrigues. Uma Abordagem para Monitoramento e Planejamento de Objetivos para Sistemas Auto-Adaptativos.
+						2015.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Alexandre Vaz Roriz. Uma metodologia de Análise do Impacto de Cenários Implícitos na Confiabilidade de Sistemas Computacionais.
+						2015.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Andrei Lima Queiroz. UMA SOLUÇÃO DE SOFTWARE DE ASSINATURA DIGITAL DE DOCUMENTOS PARA INSTITUIÇÃO DE ENSINO BRASILEIRA.
+						2014.
+
+					Dissertação  (Mestrado em Computação Aplicada)  - Universidade de Brasília, . Orientador: Genaina Nunes Rodrigues. $<->$ Vinícius Uriel Cardoso. Gerenciamento Automático de Variabilidade com Qualidade Controlada em Linha de Produtos de Software.
+						2010.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Coorientador: Genaina Nunes Rodrigues. $<->$ Paula Gabriela Fernandes. Um Método para Gerenciar Variabilidade com Qualidade Controlada em Linha de Produtos de Software Dinâmica.
+						2010.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Coorientador: Genaina Nunes Rodrigues. $<->$ Felipe Pontes Guimarães.
+						Uma arquitetura para composição descentralizada e tolerante a falhas para serviços in-the-wild.
+						2017. Tese
+					 (Doutorado em Ciências da Computação)  - Universidade de São Paulo, . Coorientador: Genaina Nunes Rodrigues. $<->$ André Luiz Peron Martins Lanna.
+						Feature-Family-Based Reliability Analysis of Software Product Lines.
+						2017. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Coorientador: Genaina Nunes Rodrigues. $<->$ Renato Navajas.
+						Uma Proposta de Gerenciamento de Atualizações de Segurança (patches).
+						2010.
+						Monografia. (Aperfeiçoamento/Especialização em Gestão de Segurança da Informação e Comunicações)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Matheus Bastos Neves.
+						FUNDAMENTOS PARA A EXTRAÇÃO AUTOMÁTICA DE PASSOS PARA CODIFICAÇÃO A PARTIR DA DESCRIÇÃO DA ARQUITETURA DO SOFTWARE E PADRÕES.
+						2009.
+						Monografia. (Aperfeiçoamento/Especialização em Especialização em Informática)  - Universidade Federal de Minas Gerais. Orientador: Genaina Nunes Rodrigues. $<->$ Alline Santos Ferreira.
+						Um estudo de processo de teste de segurança.
+						2008.
+						Monografia. (Aperfeiçoamento/Especialização em Especialização em Informática)  - Universidade Federal de Minas Gerais. Orientador: Genaina Nunes Rodrigues. $<->$ Kálley Wilkerson Rodrigues Alexandre.
+						Integração do Simulador HMR Sim com o Middleware ROS 2.
+						2023.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Augusto Ramalho Duarte.
+						DEVS2BDD: Um arcabouço para a geração de casos de testes BDD no simulador MS4Me.
+						2022.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Alex Nascimento Souza.
+						Estudo de comportamento de usuários de um app:transição de Freemium para Premium.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Gabriel Levi Gomes da Silva.
+						Provendo a fórmula paramétrica composicional como um serviço no PiStarGODA-MDP.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Frederico Pinheiro Dib.
+						Biblioteca de geração automática de testes de regressão a partir do log de execução de aplicações SaaS.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Giovanni Meneguette Guidini e Cristiane Naves Cardoso.
+						Desenvolvimento e Teste da Ferramenta HMR Sim.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Samuel Andrade do Couto.
+						Monitoramento de Propriedades Tempo Real: Um Estudo de Caso na Body Sensor Network.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Ícaro Nery Rezende e Heitor L. Belém.
+						BDD-CLI: Um arcabouço para geração automática de artefatos de testes unitários de software.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Gabriel Frutuoso Pereira Araújo.
+						Simulation and Execution of Dynamic Behavior Trees in the Service Robots Context.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia Mecatrônica)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Manoel Vieira Coelho Neto.
+						GM2MS4: A Transformation tool from Goal-Oriented Models to System-of-Systems mission simulation.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Léo Moraes da Silva.
+						O uso do multi-sensorialismo e adaptabilidade paraimersão de leitores em storytelling.
+						2021.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Nicholas N. Marques e Rafael A. Fernandes.
+						Um Arcabouço para a Geração Automatizada de Testes Funcionais a partir de Cenários BDD.
+						2020.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Gabriel Nunes Ribeiro Silva.
+						Desenvolvimento de um Analisador de Corretude do Modelo Orientado a Objetivos do GODA.
+						2019.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Eric Bernd Gil.
+						Verificação, Prototipação e Análise de Estratégias de Escalonamento e Controle para Sistemas Auto-Adaptativos Tempo Real.
+						2019.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia Mecatrônica)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Leandro Santos Bergmann.
+						piStar-GODA: Integração entre os projetos piStar e GODA.
+						2018.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Ricardo Diniz Caldas.
+						Prototipação e Verificação Formal de Sistema Autônomo com Propriedades Tempo-Real: Um estudo de caso no Body Sensor Network.
+						2017.
+						Trabalho de Conclusão de Curso. (Graduação em Engenharia Mecatrônica)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ João Paulo C. de Araújo.
+						An OSGi Implementation for Autonomous Goal-Oriented Deployment.
+						2017.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Paulo Struck Lima.
+						Interoperabilidade entre a biblioteca UnB-DALi e  ferramentas UML.
+						2017.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Jeferson Leandro da Silva.
+						Interoperabilidade entre a biblioteca UnB-DALi e  ferramentas UML.
+						2017.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Abílio Esteves Calegário de Oliveira.
+						UnB-DALi: Biblioteca Para Transformação De Modelos Em Análise De Dependabilidade.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Gabrielly Ferreira Leonardo de Lima.
+						Estudo de mapeamento sistemático em dependabilidade e métodos ágeis: uma reprodução de estudo.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Gabriela Felix Solano.
+						Verificando a Boa Formação de Modelos GODA.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Naiara Watanabe.
+						Uma proposta de modelagem orientada a personas para o modelo de objetivo orientado a contexto.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Lucas Fernandes Braga Moura.
+						Estudo Exploratório sobre o Impacto acerca da Interrupção e Indisponibilidade dos Serviços de TI oferecidos pelo CPD sobre as Atividades de Pesquisa e Administrativas da UnB.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Filipe Ponte Lima.
+						Uma Proposta para Otimização do Processo de Análise de Cenários Implícitos.
+						2016.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Paulo Ricardo Xavier Giusti.
+						Estudo Sobre o Comportamento de Usuários em Redes Sociais sob um Modelo Computacional de Atenção Visual.
+						2015.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Túlio César de Araújo Porto.
+						Uma Abordagem Exploratória de Análise de Dependabilidade no Contexto do Observatório da Web.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Leornado de Sousa Melo e Felipe de Carvalho Gules.
+						Utilização de Técnicas de Inspeção e Monitoramento no Observatório da Web.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Renato dos Santos Leal e Artur de Azevedo Braga.
+						Estudo sistemático em dependabilidade e métodos ágeis: uma análise de falhas e defeitos.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Felipe Vasconcelos de Souza.
+						Estudo Exploratório da Aplicação da Biblioteca ITIL no Gerenciamento de Mudanças em uma Instituição Financeira.
+						2013.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Daniele Vieira Ferreira.
+						Redes Sociais e Atenção Visual.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Cunha Rego Celestin.
+						Cenários Implícitos e metodologias para análise de dependabilidade em sistemas computacionais.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Jefferson Leandro da Silva.
+						Gerenciamento de Work?ows Científicos em Nuvens Computacionais Federadas.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Alexandre Lins de Albuquerque Andrade.
+						Uma Ferramenta de Geração de Grafos de Proveniência para Bioinformática.
+						2012.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Leonardo Costa Santiago.
+						Estudo Exploratório de Requisitos de Dependabilidade em Sistema Multi-Robôs.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Diego de Aquino Soares e Lino Salvatore Bordin Insfrán.
+						Estudo exploratório utilizando uma modelagem com notação BPMN em um processo de Engenharia de Requisitos.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Júlio Cesar Júnior e David da Silva Araújo.
+						Uma Proposta de Reuso Sistemático ao Observatório da Web na Etapa de Coleta de Dados..
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Bruno Alves Pinheiro e Bruno de Oliveira Silva.
+						Uma Abordagem Exploratória da Dependabilidade do Twitter no Contexto do Observatório da Web.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Renato Franklin.
+						Análise de Dependabilidade em Vida Ambiente Assistida.
+						2010.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Diogo de Assis Figueira Silva.
+						Estudo de Viabilidade de Análise de Confiabilidade em Fluxos de Trabalho para Sistemas Computacionais em Grade.
+						2010.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade Federal de Minas Gerais. Orientador: Genaina Nunes Rodrigues. $<->$ Talles Henriques Espindola.
+						Ambientes do monitoramento de falhas de componentes no contexto da Web.
+						2010.
+						Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação)  - Universidade Federal de Minas Gerais. Orientador: Genaina Nunes Rodrigues. $<->$ Marcos Vinícius Siilva Godinho e Gabriel Siqueira Rodrigues.
+						Um Estudo de Caso para a Avaliação do SCRUM sob a Óptica do MPS.BR Nível G.
+						2010.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Caio Otávio Peluti Alencar.
+						Implementação do Ambiente de Integração da Modelagem e Execução de Missões Robóticas.
+						2023.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Genaina Nunes Rodrigues. $<->$ Vicente Romeiro de Moraes.
+						Explorando Contextos Dinâmicos em Ambientes de Multi-robôs.
+						2022.
+						Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Genaina Nunes Rodrigues. $<->$ Samuel Andrade Couto.
+						Explorando a Compreensão da Visão Arquitetural de Sistemas Auto-Adaptativos.
+						2020.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Genaina Nunes Rodrigues. $<->$ Alex Nascimento Souza.
+						Análise e extração de informações de Artefatos BDD para a geração de perfil operacional de software.
+						2020.
+						Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Beatriz Chiarelli dos Santos.
+						Implementação e Avaliação de Nova Política de Qualidade de Serviços na Plataforma GOALD.
+						2020.
+						Iniciação Científica. (Graduando em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Carlos Eduardo Taborda Lottermann.
+						Explorando Contextos Dinâmicos no Estudo de Caso da Body Sensor Network.
+						2020.
+						Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Genaina Nunes Rodrigues. $<->$ Hugo Pereira Rezende.
+						Implementação do Planejamento de Deployment em múltiplos dispositivos no GoalD.
+						2020.
+						Iniciação Científica. (Graduando em Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Marco Antônio Souza de Athayde.
+						Estudo de protocolos de comunicação em rede para extensão do Framework GoalD a sistemas distribuídos.
+						2020.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Adriano Souza Brandão.
+						Implementação do protocolo de comunicação distribuída do framework GOALD.
+						2019.
+						Iniciação Científica. (Graduando em Engenharia de Redes de Comunicações)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Léo Moras da Silva.
+						Implementação de um Ambiente de Simulação de Sistemas Autônomos para o Estudo de Caso da Body Sensor Network.
+						2018.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Gabriel Levi Gomes da Silva.
+						Implementação de Microserviços para o Estudo de Caso da Body Sensor Network.
+						2018.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Yan Victor dos Santos.
+						Analise de Dependabilidade Dirigida à Modelagem Orientada a Objetivos.
+						2016.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Caio Batista de Melo.
+						Analise de Dependabilidade Orientada à Detecção de Cenários Implícitos.
+						2016.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Henrique Santos Gonzaga.
+						Analise de Dependabilidade Orientada a Objetivos Pragmáticos.
+						2016.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Eduardo Bezerra Rufino Ferreira Paiva.
+						Explorando Análise de Dependabilidade em Sistemas Multi-Robôs.
+						2014.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ Victor Mendes Monteiro.
+						Explorando Análise de Dependabilidade em Sistemas Multi-Robôs.
+						2014.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Genaina Nunes Rodrigues. $<->$ João Henrique Gonçalves de Sousa.
+						Uma Abordagem Dirigida a Modelos para Integrar Técnicas de Modelagem e Análise de Confiabilidade.
+						2013.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Felipe Rodopoulos de Oliveira.
+						Integração de Workflow Científico em Nuvens Computacionais.
+						2012.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Leonardo de Sousa Melo.
+						Dashboard de Qualidade de Serviços do Observatório da Web.
+						2012.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Alexandre Silva Dantas.
+						Adequação do modelo de reputação do Observe-UnB.
+						2012.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues. $<->$ Jefferson Leandro.
+						Especificação e Modelagem de um Protótipo de Workflow Científico Confiável em Nuvens Computacionais.
+						2011.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Cunha Rêgo Célestin.
+						Análise do Impacto de Cenários Implícitos na Confiabilidade de Sistemas Computacionais.
+						2011.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Genaina Nunes Rodrigues. $<->$ Pedro Rego Celestin.
+						Definição de Metodologia de Análise de Dependabilidade em Ambientes Dinâmicos.
+						2010.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Genaina Nunes Rodrigues."

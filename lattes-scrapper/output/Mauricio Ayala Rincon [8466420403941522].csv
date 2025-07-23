@@ -1,0 +1,369 @@
+Nome,Lattes ID,Resumo,Formação acadêmica/titulação,Áreas de atuação,Idiomas,Prêmios e títulos,Produções,Orientações
+Mauricio Ayala Rincon,8466420403941522,"Possui graduação em ""Ingeniería de Sistemas y Computación"" (1985) e em ""Matemáticas"" (1987) da Universidad de Los Andes (Bogotá, Colômbia) e doutorado (Dr. rer. nat.) em Teoria da Computação  (1993) da Fachbereich Informatik,  Universität Kaiserslautern (Alemanha). Atualmente é Professor Titular em Ciência da Computação da Universidade de Brasília e pesquisador  e consultor ad-hoc do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq. É membro do Corpo Editorial da Revista Colombiana de Computación, e foi editor convidado de números especiais de Journal of Automated Reasoning, Mathematical Structures in Computer Sciences, Theoretical Computer Science, J. of the IGPL e ENTCS. Foi pesquisador associado (1999-2000) e afiliado (2000-2010) do Grupo ULTRA da Heriot-Watt University (Edimburgo, U.K.) e, consultor do National Institute of Aerospace NIA/NASA LaRC entre Jul-Set 2010. Participou da criação do curso de Mestrado (2003) e coordenou a criação do curso de Doutorado (2010) em Informática da Universidade de Brasília. Tem experiência na área de Ciência da Computação, com ênfase em Teoria da Computação, atuando principalmente nos seguintes temas: teoria de reescrita, especificação algébrica, substituições explícitas, cálculo lambda, sistemas nominais, especificação de sistemas reconfiguráveis e métodos formais. As suas principais contribuições são no tratamento de sistemas de reescrita condicionais com predicados aritméticos, no desenvolvimento de mecanismos de unificação de ordem superior via cálculos de substituições explícitas e unificação nominal módulo, no desenvolvimento de uma metodologia baseada em reescrita-lógica para o projeto de hardware reconfigurável e,  na formalização de propriedades de sistemas de reescrita e sistemas nominais. Foi co-organizador do Workshop on Logic, Language, Information and Computation WoLLIC em 2001, 2008 e 2010 e do Logical and Semantic Frameworks with Applications LSFA desde sua criação em 2006 até 2017, e a partir de 2022, sendo co-chair do PC deste último em 2006, 2007, 2009, 2014 e 2021. Foi eleito em 2007 ""Conference Chair"" da ""Federated Conference on Rewriting, Deduction and Programming - RDP 2009"" realizada em Brasília em junho/julho de 2009. RDP 2009 incluiu as conferências ""9th Typed Lambda Calculus and Applications"" e ""20th Rewriting Techniques and Applications"".   Eleito em 2009, membro do Steering Committee da International School on Rewriting ISR (2009-15), sendo presidente deste SC entre 2014-2015 e, eleito em Nagoya 2012 membro do Steering Committee de Rewriting Techniques and Applications RTA (2012-15). Neste último comitê participou da criação da nova conferência Formal Structures for Computation and Deduction FSCD, que sucedeu RDP a partir de 2016, sendo eleito em Oxford 2018, membro do Steering Committee de FSCD (2018-21). Foi co-chair da conferência ""8th Interactive Theorem Proving"" (ITP 2017) e membro ex-officio do Steering Committee de ITP (2017-18), e foi nomeado membro do Steering Committee de ITP (2020-). Foi co-chair do ""32nd International Workshop on Unification"" (UNIF 2018) afiliado a FSCD/FLOC 2018 e dos ""8th"" e ""9th"" International Workshops on Confluence"" (IWC 2019, IWC 2020) afiliados a FSCD 2019 e FSCD/IJCAR 2020. Foi nomeado co-chair do Steering Committee de IWC em 2020. Foi nomeado em 2021, membro do IFIP working group 1.6: rewriting.  Atualmente, é Conference Chair da  18th Conference on Computational Intelligent Mathematics, colocada com o 20th Logical and Semantic Frameworks with Applications (CICM+LSFA 2025), a ser realizada em Brasília entre 6-11 Novembro de 2025.(Texto informado pelo autor)","Data: 1989 - 1993. Doutorado em Fachbereich Informatik.Universitaet Kaiserslautern, UNIKL, Alemanha.Título: Expressiveness of Conditional Rewriting Systems with Built-in Predicates, Ano de obtenção: 1993.Orientador: Prof Dr. rer. nat. Klaus Erwin Madlener.Bolsista do(a): Deutscher Akademischer Austauschdienst, DAAD, Alemanha.Palavras-chave: Especificacao Algebrica; Prova de Teoremas; Sistemas de Reescrita de Termos.Grande área: Ciências Exatas e da Terra $<->$ Data: 1981 - 1987. Graduação em Matemática.Universidad de Los Andes, UNIANDES, Colômbia.Título: Algunos Aspectos de la Teoria de Bifurcaciones.Orientador: Prof Dr. rer. nat. Jaime Lesmes. $<->$ Data: 1980 - 1985. Graduação em Ingeniería de Sistemas y Computación.Universidad de Los Andes, UNIANDES, Colômbia.Título: Generador de Evaluadores para Gramáticas con Atributos Fuertemente No-Circulares.Orientador: Prof Dr. Rodrigo Lopez.",Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Lógicas e Semântica de Programas. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Computabilidade e Modelos de Computação. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Análise de Algoritmos e Complexidade de Computação. $<->$ Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Linguagem Formais e Autômatos. $<->$ Grande área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Matemática Aplicada.,"Alemão: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Espanhol: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. $<->$ Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.","2023: Best Paper Award:  ""Nominal AC-matching"" coautores: G.F. Ferreira, D.Nantes, M. Fernández, T. Kutsia, Int. Conference on Intelligent Computational Mathematics, CICM 2023, Cambridge. $<->$ 2021: Eleito Membro titular, IFIP WG 1.6: Rewriting. $<->$ 2020: Eleito membro do Steering Committee da International Conference on Interactive Theorem Proving ITP, International Conference on Interactive Theorem Proving. $<->$ 2018: Eleito membro do Steering Committee da International Conference on Formal Structures for Computation and Deduction FSCD, IFIP Working Group 1.6 on Rewriting e General Assembly de FSCD 2018 em Oxford. $<->$ 2013: Melhores Trabalhos em TC CLEI 2013 - convite publicação em special issue Elsevier ENTCS, CLEI. $<->$ 2012: Eleito membro do Steering Committee da International Conference on Rewriting Techniques and Applications, IFIP Working Group 1.6 on Rewriting e General Assembly da conferência RTA em Nagoya. $<->$ 2012: Aprovado em 1o lugar em concurso público para Professor Titular em Matemática, Dep. de Matemática, UnB (Banca: K Tenenblat, CL Lucchesi, C Tomei, JA Cuminato,  FCP Milies). $<->$ 2012: Orientador do melhor projeto em seção da área de Computação. Aluna Jéssyca Cristine Lima de Souza, Programa de Iniciação Científic DPP/Universidade de Brasília. $<->$ 2012: Melhores Trabalhos em TC CLEI 2012 - convite publicação em special issue Elsevier ENTCS, CLEI. $<->$ 2009: Nomeado ""Professor"" da Universidad Autónoma de Bucaramanga UNAB, Reitoria da UNAB (Reitor: Alberto Montoya Puyana) e SCC (Presidente: Eduardo Carrillo Zambrano). $<->$ 2009: Prêmio Pesquisador do Distrito Federal, classificado em segundo lugar na Categoria Exatas e da Terra, Fundação de Apoio à Pesquisa do Distrito Federal FAPDF. $<->$ 2009: Orientador do melhor projeto de Iniciação Científica da área - Sessão Matemática,  Aluna Ana Cristina Rocha Oliveira, Programa de Iniciação Científica DPP/UnB.. $<->$ 2009: Aprovado em primeiro lugar em concurso público para Professor Titular em computação, Dep. Ciência da Computação UnB (Banca: NR Rocco, LFG Soares, T Kowaltowski, CL Luccesi). $<->$ 2007: Melhores Trabalhos CLEI 2007 - convite publicação número especial CLEI Elec. Journal, CLEI. $<->$ 2006: Synplicity award for best latin-american R&D group on ReConFigurable Computing design (co-author of IEEE Proc. ReConFig 04, 05 and 06 papers), Synplicity and Steering Committee Int. Conf. on ReConFigurable Computing and FPGA's - ReConFig. $<->$ 2006: Melhores Trabalhos SBCCI 2006, SBCCI. $<->$ 2004: Woody Bledsoe Student Travel Award para apresentação de trabalho pelo aluno/orientando de doutorado Flávio C. de Moura no Doctoral Programme of the Second International Joint Conference on Automated Reasoning (IJCAR 2004), Cork, Ireland, Conference chairs and the CADE trustees. $<->$ 2002: Prêmio de primeiro colocado no Seminário Sobre Novas Tecnologias no Ensino de Graduação na UnB: SAGEMoLiC - A Framework to Visualize Equivalences between Computational Models of Regular Languages, Decanato de Ensino e Graduação da Universidade de Brasília. $<->$ 2002: Woody Bledsoe Student Travel Award para apresentação de trabalho pelo aluno/orientando de mestrado Rinaldi M. Neto no WRS'2002, Copenhagen, Denmark, Conference chairs and the CADE trustees. $<->$ 2002: Orientação do Melhor Projeto da Área de Ciências Exatas. Aluno: Marcos de Andrade Gomes, PIBIC/CNPq/UnB. $<->$ 1999: Orientação do Melhor Projeto da Área de Ciências Exatas. Aluno: Alison H. R. da Silva, PIBIC/CNPq/UnB. $<->$ 1996: Paraninfo, Formandos em Ciência da Computação, Universidade de Brasília.","da Silveira, Lucas A.2024da Silveira, Lucas A.; DE LIMA, THAYNARA A. ;Ayala-Rincón, Mauricio. On reconfiguring heterogeneous parallel island models. Swarm and Evolutionary Computation, v. 89, p. 101624, 2024. $<->$ M. Ayala-Rincón2024M. Ayala-Rincón; FERNANDEZ, M. ;Ferreira Silva, G.; Kutsia, T. ; NANTES-SOBRINHO, DANIELE . Certified First-Order AC-Unification and Applications. JOURNAL OF AUTOMATED REASONING, v. 68, p. 25-1-48, 2024. $<->$ SERRANO, F.2024SERRANO, F. ;De Lima, T.A.;M. Ayala-Rincón. Compactness Theorem for Propositional Logic and Combinatorial Applications. Archive of Formal Proofs, v. 2024, p. 1-125, 2024. $<->$ Cesar Munoz2023Cesar Munoz ;M. Ayala-Rincón; Moscato, Mariano ; Dutle, Aaron ; Narkawicz, Anthony ;Almeida, Ariane A.;Avelar, Andréia B; Ramos, T. M. F. . Formal Verification of Termination Criteria for First-Order Recursive Functions. JOURNAL OF AUTOMATED REASONING, v. 67, p. 1-30, 2023. $<->$ da Silveira, Lucas A.2023da Silveira, Lucas A.;De Lima, T.A.; LLANOS, C. H. ;M. Ayala-Rincón. On the behavior of parallel island models. APPLIED SOFT COMPUTING, v. 148, p. 110880, 2023. $<->$ NUNES, D. S. N.2022NUNES, D. S. N.; Louza, Felipe ; GOG, S. ;Ayala-Rincon, M.; Navarro, Gonzalo . Grammar Compression by Induced Suffix Sorting. ACM JOURNAL OF EXPERIMENTAL ALGORITHMICS, v. 27, p. 1-33, 2022. $<->$ Ramos, Thiago M. Ferreira2022Ramos, Thiago M. Ferreira ;Almeida, Ariane A.;Ayala-Rincón, Mauricio. Formalization of the Computational Theory of a Turing Complete Functional Language Model. JOURNAL OF AUTOMATED REASONING, v. 66, p. 1031-1063, 2022. $<->$ DE BARROS, JESSE BARRETO2022DE BARROS, JESSE BARRETO ; Anantharajaiah, N. ;Ayala-Rincón, Mauricio; LLANOS, C. H. ; BECKER, Jürgen . The impact of formulation of cost function in Task Mapping Problem on NoCs using bio-inspired based-metaheuristics. MICROPROCESSORS AND MICROSYSTEMS, v. 94, p. 104668, 2022. $<->$ M. Ayala-Rincón2021M. Ayala-Rincón; de Carvalho-Segundo, Washington ; FERNANDEZ, M. ;Ferreira Silva, G.;Sobrinho, Daniele Nantes. Formalising nominal C-unification generalised with protected variables. MATHEMATICAL STRUCTURES IN COMPUTER SCIENCE, v. 31, p. 286-311, 2021. $<->$ DE LIMA, THAYNARA ARIELLY2021DE LIMA, THAYNARA ARIELLY;GALDINO, André Luiz; AVELAR, ANDRÉIA BORGES ;Ayala-Rincón, Mauricio. Formalization of Ring Theory in PVS. JOURNAL OF AUTOMATED REASONING, v. 65, p. 1231-1263, 2021. $<->$ M. Ayala-Rincón2020M. Ayala-Rincón; FERNANDEZ, M. ; NANTES-SOBRINHO, DANIELE ; Vale, Deivid . On Solving Nominal Disunification Constraints. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, v. 348, p. 3-22, 2020. $<->$ M. Ayala-Rincón2020M. Ayala-Rincón; FERNANDEZ, M. ; NANTES-SOBRINHO, DANIELE . On Nominal Syntax and Permutation Fixed Points. Logical Methods in Computer Science, v. 16, p. 19:1-19:36, 2020. $<->$ ALMEIDA, A. A.2020ALMEIDA, A. A.;Ayala-Rincón, Mauricio. Formalizing the dependency pair criterion for innermost termination. SCIENCE OF COMPUTER PROGRAMMING, v. 195, p. 102474, 2020. $<->$ Ayala-Rincón, Mauricio2019Ayala-Rincón, Mauricio; FERNÁNDEZ, MARIBEL ; NANTES-SOBRINHO, DANIELE ; ROCHA-OLIVEIRA, ANA CRISTINA . A formalisation of nominal α-equivalence with A, C, and AC function symbols. THEORETICAL COMPUTER SCIENCE, v. 781, p. 3-23, 2019. $<->$ Ayala-Rincón, Mauricio2019Ayala-Rincón, Mauricio; Bonelli, Eduardo ; Viso, Andres ; EDI, Juan . Typed Path Polymorphism. THEORETICAL COMPUTER SCIENCE, v. 781, p. 111-130, 2019. $<->$ SONCCO-ÁLVAREZ, JOSÉ LUIS2019SONCCO-ÁLVAREZ, JOSÉ LUIS ;MUÑOZ, DANIEL M.;Ayala-Rincón, Mauricio. Opposition-Based Memetic Algorithm and Hybrid Approach for Sorting Permutations by Reversals. EVOLUTIONARY COMPUTATION (ONLINE), v. 27, p. 229-265, 2019. $<->$ Ayala-Rincón, Mauricio2019Ayala-Rincón, Mauricio; de Carvalho-Segundo, Washington ; FERNÁNDEZ, MARIBEL ; NANTES-SOBRINHO, DANIELE . A Formalisation of Nominal C-Matching through Unification with Protected Variables. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, v. 344, p. 47-65, 2019. $<->$ DE LIMA, THAYNARA ARIELLY2018DE LIMA, THAYNARA ARIELLY;Ayala-Rincón, Mauricio. On the average number of reversals needed to sort signed permutations. DISCRETE APPLIED MATHEMATICS, v. 235, p. 59-80, 2018. $<->$ M. Ayala-Rincón2018M. Ayala-Rincón; FERNANDEZ, M. ; Rocha Oliveira, Ana Cristina ;VENTURA, Daniel Lima. Nominal essential intersection types. THEORETICAL COMPUTER SCIENCE, p. 62-80, 2018. $<->$ ROCHA-OLIVEIRA, ANA CRISTINA2017ROCHA-OLIVEIRA, ANA CRISTINA ;GALDINO, André Luiz;Ayala-Rincón, Mauricio. Confluence of Orthogonal Term Rewriting Systems in the Prototype Verification System. JOURNAL OF AUTOMATED REASONING, v. 58, p. 231-251, 2017. $<->$ Ayala-Rincón, Mauricio2017Ayala-Rincón, Mauricio; FERNÁNDEZ, MARIBEL ; NANTES-SOBRINHO, DANIELE . Intruder deduction problem for locally stable theories with normal forms and inverses. Theoretical Computer Science, v. 672, p. 64-100, 2017. $<->$ Ayala-Rincón, Mauricio2017Ayala-Rincón, Mauricio; FERNANDEZ, M. ; NANTES-SOBRINHO, DANIELE ; Carvalho Segundo, W.L.R. . A Formalisation of Nominal ? -equivalence with A and AC Function Symbols. ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE, v. 332, p. 21-38, 2017. $<->$ Ayala-Rincón, Mauricio2016Ayala-Rincón, Mauricio. Formalising Confluence in PVS. Electronic Proceedings in Theoretical Computer Science, v. 204, p. 11-17, 2016. $<->$ Ayala-Rincón, Mauricio2016Ayala-Rincón, Mauricio; FERNÁNDEZ, MARIBEL ; GABBAY, MURDOCH JAMES ; ROCHA-OLIVEIRA, ANA CRISTINA . Checking Overlaps of Nominal Rewriting Rules. Electronic Notes in Theoretical Computer Science, v. 323, p. 39-56, 2016. $<->$ Ayala-Rincón, Mauricio2016Ayala-Rincón, Mauricio; FERNÁNDEZ, MARIBEL ; ROCHA-OLIVEIRA, ANA CRISTINA . Completeness in PVS of a Nominal Unification Algorithm. Electronic Notes in Theoretical Computer Science, v. 323, p. 57-74, 2016. $<->$ VISO, ANDRÉS2016VISO, ANDRÉS ; Bonelli, Eduardo ;Ayala-Rincón, Mauricio. Type Soundness for Path Polymorphism. Electronic Notes in Theoretical Computer Science, v. 323, p. 235-251, 2016. $<->$ NOGUEIRA NUNES, DANIEL SAAD2016NOGUEIRA NUNES, DANIEL SAAD ;Ayala-Rincón, Mauricio. A Practical Semi-External Memory Method for Approximate Pattern Matching. Electronic Notes in Theoretical Computer Science, v. 324, p. 107-122, 2016. $<->$ Soncco-Álvarez, J.L.2015Soncco-Álvarez, J.L. ; ALMEIDA, G. M. ; BECKER, Jürgen ;Ayala-Rincón, Mauricio. Parallelization of genetic algorithms for sorting permutations by reversals over biological data. International Journal of Hybrid Intelligent Systems, v. 12, p. 53-64, 2015. $<->$ VENTURA, D. L.2015VENTURA, D. L.; Kamareddine, F. ;Ayala-Rincon, M.. Explicit substitution calculi with de Bruijn indices and intersection type systems. Logic Journal of the IGPL (Print), v. 23, p. 295-340, 2015. $<->$ NUNES, D. S. N.2014NUNES, D. S. N.;Ayala-Rincón, Mauricio. A Compressed Suffix Tree Based Implementation With Low Peak Memory Usage. Electronic Notes in Theoretical Computer Science, v. 302, p. 73-94, 2014. $<->$ Avelar, Andréia B2014Avelar, Andréia B;GALDINO, André Luiz;MOURA, Flávio Leonardo Cavalcanti de;M. Ayala-Rincón. First-order unification in the PVS proof assistant. Logic Journal of the IGPL (Print), p. 758-789, 2014. $<->$ MUÑOZ, DANIEL M.2014MUÑOZ, DANIEL M.; LLANOS, CARLOS H. ; COELHO, LEANDRO DOS S. ;Ayala-Rincón, Mauricio. Hardware opposition-based PSO applied to mobile robot controllers. Engineering Applications of Artificial Intelligence, v. 28, p. 64-77, 2014. $<->$ Soncco-Álvarez, J.L.2013Soncco-Álvarez, J.L. ;Ayala-Rincon, M.. Sorting Permutations by Reversals through a Hybrid Genetic Algorithm based on Breakpoint Elimination and Exact Solutions for Signed Permutations. Electronic Notes in Theoretical Computer Science, v. 292, p. 119-133, 2013. $<->$ Ayala-Rincón, Mauricio2013Ayala-Rincón, Mauricio; FERNÁNDEZ, MARIBEL ; NANTES-SOBRINHO, DANIELE . Elementary Deduction Problem for Locally Stable Theories with Normal Forms. Electronic Proceedings in Theoretical Computer Science, v. 113, p. 45-60, 2013. $<->$ Santos Rego, Yuri2013Santos Rego, Yuri;M. Ayala-Rincón. Formalization in PVS of Balancing Properties Necessary for Proving Security of the Dolev-Yao Cascade Protocol Model. JOURNAL OF FORMALIZED REASONING, v. 6, p. 31-61, 2013. $<->$ Rocha Oliveira, Ana Cristina2013Rocha Oliveira, Ana Cristina ;Ayala-Rincón, Mauricio. Formalizing the Confluence of Orthogonal Rewriting Systems. Electronic Proceedings in Theoretical Computer Science, v. 113, p. 145-152, 2013. $<->$ Avelar, Andréia B2012Avelar, Andréia B;GALDINO, ANDRÉ L;DE MOURA, FLÁVIO LC;Ayala-Rincón, Mauricio. A Formalization of the Theorem of Existence of First-Order Most General Unifiers. Electronic Proceedings in Theoretical Computer Science, v. 81, p. 63-78, 2012. $<->$ de Moura, F.L.C.2011de Moura, F.L.C.;Barbosa, Alex;M. Ayala-Rincón. A Flexible Framework for Visualisation of Computational Properties of General Explicit Substitutions Calculi. Electronic Notes in Theoretical Computer Science, v. 269, p. 41-54, 2011. $<->$ ARBOLEDA, Daniel Muñoz2010ARBOLEDA, Daniel Muñoz; SANCHEZ, D. F. ;LLANOS, Carlos;Ayala-Rincón, Mauricio. Tradeoff of FPGA Design of a Floating-point Library for Arithmetic Operators. JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS), v. 5, p. 42-52, 2010. $<->$ Galdino, André L.2010Galdino, André L.;Ayala-Rincón, Mauricio. A Formalization of the Knuth-Bendix(-Huet) Critical Pair Theorem. Journal of Automated Reasoning, v. 45, p. 301-325, 2010. $<->$ Ventura, D.2009Ventura, D.;Ayala-Rincon, M.; Kamareddine, F. . Explicit substitutions calculi with one step Eta-reduction decided explicitly. Logic Journal of the IGPL, v. 17, p. 697-718, 2009. $<->$ Galdino, André L.2009Galdino, André L.;Ayala-Rincón, Mauricio. A PVS Theory for Term Rewriting Systems. Electronic Notes in Theoretical Computer Science, v. 247, p. 67-83, 2009. $<->$ MOURA, Flávio Leonardo Cavalcanti de2008MOURA, Flávio Leonardo Cavalcanti de;M. Ayala-Rincón; KAMAREDDINE, Fairouz . Higher-Order Unification: a structural relation between Huet's method and the one based on explicit substitutions (comunicado por Dov M. Gabbay). Journal of Applied Logic, Holanda, v. 6, p. 72-108, 2008. $<->$ ARBOLEDA, Daniel Muñoz2008ARBOLEDA, Daniel Muñoz;LLANOS, Carlos;M. Ayala-Rincón;van ELS, R.. Distributed approach to group control of elevator systems using fuzzy logic and FPGA implementation of dispatching algorithms. Engineering Applications of Artificial Intelligence, v. 21, p. 1309-1320, 2008. $<->$ GALDINO, André Luiz2008GALDINO, André Luiz;AYALARINCON, M. A Formalization of Newman's and Yokouchi's Lemmas in a Higher-Order Language. JOURNAL OF FORMALIZED REASONING, v. 1, p. 39-50, 2008. $<->$ GALDINO, André Luiz2008GALDINO, André Luiz;AYALARINCON, M. A Theory for Abstract Reduction Systems in PVS. CLEI ELECTRONIC JOURNAL, v. 11, p. 1-12, 2008. $<->$ BOUKERCHE, Azzedine2007BOUKERCHE, Azzedine ;MELO, Alba Cristina Magalhaes Alves de;SANDES, Edans Flávius de Oliveira;M. Ayala-Rincón. An Exact Parallel Algorithm to Compare Very Long Biological Sequences in Clusters of Workstations. Cluster Computing, USA, v. 10, p. 187-202, 2007. $<->$ M. Ayala-Rincón2007M. Ayala-Rincón;ABREU, Bruno T de; SIQUEIRA, José de . A Variant of the Ford-Johnson Algorithm that is more Space Efficient (comunicado por F. M. auf der Heide). Information Processing Letters, Holanda, v. 102, p. 201-207, 2007. $<->$ BOUKERCHE, Azzedine2007BOUKERCHE, Azzedine ;MELO, Alba Cristina Magalhaes Alves de;M. Ayala-Rincón;WALTER, Maria Emilia Machado Telles. Parallel Strategies for Local Biological Sequence Alignment. Journal of Parallel and Distributed Computing, Holanda, v. 67, n.2, p. 170-185, 2007. $<->$ M. Ayala-Rincón2006M. Ayala-Rincón;LLANOS, Carlos;JACOBI, Ricardo P; HARTENSTEIN, Reiner W . Prototyping Time and Space Effiicient Computations of Algebraic Operations over Dynamically Reconfigurable Systems Modeled by Rewriting-Logic. ACM Transactions on Design Automation of Electronic Systems, USA, v. 11, n.2, p. 251-281, 2006. $<->$ MOURA, Flávio Leonardo Cavalcanti de2006MOURA, Flávio Leonardo Cavalcanti de;M. Ayala-Rincón; KAMAREDDINE, Fairouz . SUBSEXPL: a tool for simulating and comparing explicit substitutions calculi -. Journal of Applied Non-Classical Logics, Paris, v. 16, n.1-2, p. 119-150, 2006. $<->$ M. Ayala-Rincón2005M. Ayala-Rincón;MOURA, Flávio Leonardo Cavalcanti de; KAMAREDDINE, Fairouz . Comparing and Implementing Calculi of Explicit Substitutions with Eta Reduction. Annals of Pure and Applied Logic, Amsterdam, v. 134, n.1, p. 5-41, 2005. $<->$ JACOBI, Ricardo P2005JACOBI, Ricardo P;M. Ayala-Rincón;CARVALHO, Luis G A;LLANOS, Carlos; HARTENSTEIN, Reiner W . Reconfigurable Systems for Sequence Alignment and for General Dynamic Programming. GENETICS AND MOLECULAR RESEARCH, Brasil, v. 4, n.3, p. 543-552, 2005. $<->$ KAMAREDDINE, Fairouz2004KAMAREDDINE, Fairouz ; MONIN, François ;M. Ayala-Rincón. On Automating the Extraction of Programs from Termination Proofs. Revista Colombiana de Computación, v. 4, n.2, p. 29-48, 2004. $<->$ M. Ayala-Rincón2003M. Ayala-Rincón;CONEJO, P. D.. A Linear Time Lower Bound on McCreight and General Updating Algorithms for Suffix Trees. Algorithmica, New York, v. 37, n.3, p. 233-241, 2003. $<->$ M. Ayala-Rincón2003M. Ayala-Rincón; KAMAREDDINE, Fairouz . On applying the lambda s_e-style of unification for simple typed higher-order unification in the pure lambda-calculus. Matemática Contemporânea, v. 24, p. 1-22, 2003. $<->$ M. Ayala-Rincón2003M. Ayala-Rincón; HARTENSTEIN, Reiner W ;NETO, R. M.;JACOBI, Ricardo P;LLANOS, Carlos. Architectural Specification, Exploration and Simulation Through Rewriting-Logic. Revista Colombiana de Computación, Colômbia, v. 3, n.2, p. 20-34, 2003. $<->$ M. Ayala-Rincón2002M. Ayala-Rincón;FONSECA, A. F.;POUBEL, Haydée Werneck; SIQUEIRA, José de . A Framework to Visualize Equivalences Between Computational Models of Regular Languages. Information Processing Letters, v. 84, n.1, p. 5-16, 2002. $<->$ M. Ayala-Rincón2002M. Ayala-Rincón;ARAÚJO, I. E. T.. Unification Modulo Presburger Arithmetic and Other Decidable Theories. Revista Colombiana de Computación, v. 2, n.2, p. 7-19, 2002. $<->$ MAYA NETO, R.2002M. Ayala-Rincón;MAYA NETO, R.; LLANOS, C. H. ; HARSTEINER, R. ;JACOBI, R. P.. Applying ELAN Strategies in Simulating Processors over Simple Architectures. Electronic Notes in Theoretical Computer Science, v. 70, n.6, p. 84-99, 2002. $<->$ M. Ayala-Rincón2001M. Ayala-Rincón;FONSECA, A. F.; SILVA, A. H. R. ;POUBEL, Haydée Werneck; SIQUEIRA, José de . Animation of Relations Between Computational Models and Languages. Bulletin of the European Association for Theoretical Computer Science, v. 74, p. 235-241, 2001. $<->$ M. Ayala-Rincón2001M. Ayala-Rincón; KAMAREDDINE, Fairouz . Unification via the Lambda s_e Style of Explicit Substitutions. Logic Journal of the IGPL, Inglaterra, v. 9, n.4, p. 489-521, 2001. $<->$ M. Ayala-Rincón2000M. Ayala-Rincón; Cesar Munoz . Explicit Substitutions and All That. Revista Colombiana de Computación, v. 1, n.1, p. 47-71, 2000. $<->$ M. Ayala-Rincón1997M. Ayala-Rincón. A Deductive Calculus For Conditional Equational Systems With Built-In Predicates As Premises. Revista Colombiana de Matemáticas, Colômbia, v. 31, n.2, p. 77-98, 1997. $<->$ M. Ayala-Rincón1997M. Ayala-Rincón;L. M. R. Gadelha. Some Applications Of (Semi-)Decision Algorithms For Presburger Arithmetic In Automated Deduction Based On Rewriting Techniques. Revista de la Sociedad Chilena de Ciencia de la Computación, Chile, v. 2, n.1, p. 14-23, 1997. $<->$ M. Ayala-Rincón1993M. Ayala-Rincón. Problemas Actuales en el Campo de La Reescritura. Revista de la Escuela Colombiana de Ingenierías, Bogotá, Colômbia, v. 4, n.10, p. 27-31, 1993. $<->$ M. Ayala-Rincón1996M. Ayala-Rincón. A Note on Confluence of Term Rewriting Systems under Joinability of Critical Pairs in One Step of Parallel Reduction. Bulletin of the European Association for Theoretical Computer Science, v. 58, p. 225-225, 1996. $<->$ M. Ayala-Rincón1996M. Ayala-Rincón. A Deductive Calculus for Conditional Equational Systems with Built-in Predicates - Abstract. Bull. of Symbolic Logic, v. 2, n.2, p. 236-236, 1996. $<->$ M. Ayala-Rincón1996M. Ayala-Rincón. Embedding Built-in Predicates as Premises of Rules of Conditional Rewriting Systems. Journal of the Interest Group in Pure and Applied Logics, v. 4, n.2, p. 309-309, 1996. $<->$ M. Ayala-Rincón1994M. Ayala-Rincón. Expressivenes of Conditional Equational Systems with Built-in Predicates. Bulletin of the European Association for Theoretical Computer Science, v. 53, p. 485-486, 1994.","Maria Júlia Dias Lima. Formalização e verificação de algoritmos de anti-unificação.
+					Início: 2024.
+					Dissertação (Mestrado profissional em Informática)  - Universidade de Brasília. (Orientador). $<->$ Marcos Mercandeli Rodrigues. Formalização algoritmos equacionais nominais.
+					Início: 2024. Tese (Doutorado em Matemática)  - Universidade de Brasília. (Orientador). $<->$ Gabriela de Souza Ferreira. Anti-unificação para objetos de tipo arbitrário.
+					Início: 2023. Tese (Doutorado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). $<->$ Nikson Bernardes Fernandes Ferreira. Formalização de computações em ponto-flutuante em sistemas de gerenciamento de tráfego aéreo urbanos.
+					Início: 2023. Tese (Doutorado em Informática)  - Universidade de Brasília. (Orientador). $<->$ Andrés Felipe González Barragán. Raciocínio nominal equacional - anti-unificação (co-orientador Temur Kutsia RISC U. Linz).
+					Início: 2021. Tese (Doutorado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador). $<->$ Bruno Berto de Oliveira Ribeiro. Formalização em PVS de Teoremas Algébricos. Início: 2023. Iniciação científica (Graduando em Ciência da Computação)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador). $<->$ Nikson Bernardes Fernandes Ferreira. Improving the Safety of Numerical Programs.
+						2023.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Mehwish Arshid. A Study on Unification and Disunification Modulo.
+						2020.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Gabriel Ferreira Silva. Nominal Unification With Commutative and Associative-Commutative Function Symbols.
+						2019.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos. Formalização da Terminação de Especificações Funcionais.
+						2017.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Lucas Angelo da Silveira. Distância de Translocação entre Genomas sem Sinal utilizando Algoritmos Genéticos.
+						2016.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Ariane Alves Almeida. Verificação de Implementações em Hardware por meio de Provas de Correção de suas Definições Recursivas.
+						2014.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Daniel Saad Nogueira Nunes. Um índice baseado em árvores de sufixos comprimidas com baixo consumo de memória.
+						2013.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ José Luis Soncco Álvarez. Ordenação por Reversões de Permutações sem Sinal Usando uma Abordagem de Algoritmos Genéticos.
+						2013.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Ana Cristina Rocha Oliveira Valverde. Formalização da Confluência para Sistemas de Reescrita Ortogonais.
+						2012.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Fábio Henrique da Silva. Expansibilidade em cálculos de substituições explícitas.
+						2012.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ José Luiz Correa de Moraes. Ordenação de Sequências Finitas por Reversões Usando Conjugações em Grupos de Permutações.
+						2012.
+
+					Dissertação  (Mestrado em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Thaynara Arielly de Lima. Representação combinatória e algébrica das permutações na análise do problema de rearranjo de genomas por reversões.
+						2010.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Andréia Borges Avelar. Formalização da Prova do Teorema de Existência de Unificadores Mais Gerais em Teorias de Primeira-Ordem.
+						2009.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Daniele Nantes Sobrinho. O Problema da Dedução do Intruso para um Protocolo Criptográfico Especificado via Reescrita Módulo AC.
+						2009.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Rodrigo Borges Nogueira. Verificação Formal de Protocolos Criptográficos - O Caso dos Protocolos em Cascata.
+						2008. 0 f.
+
+					Dissertação  (Mestrado em Mestrado Em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Daniel Lima Ventura. Cálculos de substituições explícitas que preservam a propriedade de redução de sujeito.
+						2006. 70 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Rodrigo César de Castro Miranda. Um algoritmo para pesquisa aproximada de padrões baseado no método de Landau Vishkin e uso de arranjos de sufixos para reduzir o uso de espaço.
+						2006. 80 f.
+
+					Dissertação  (Mestrado em Mestrado Em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Thomas Mailleux Santana. SAEPTUM: Uma Metodologia de Verificação de Especificações de Sistemas de Reescrita por meio de Tradução a Teorias Lógicas.
+						2005. 0 f.
+
+					Dissertação  (Mestrado em Mestrado Em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Hélio Carneiro Ferreira. Análise de Mecanismos para Combinar Passos de Beta-Contração em Cálculos de Substituições Explícitas.
+						2005. 70 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Valnei Alves Fernandes. Deteção e Resolução Formal de Conflitos de Trafego Aéreo.
+						2004. 85 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Flávio Leonardo Cavalcanti de Moura. Comparação Entre Cálculos de Substituições Explícitas com Eta-Conversão.
+						2002. 70 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Rinaldi Maya Neto. Aplicação de Reescrita-Lógica na Especificação de Processadores.
+						2002. 70 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Wellington Barros e Barbosa. Uma Modelagem Categórica para a Modularidade da Confluência em Sistemas de Reescrita de Termos.
+						2001. 100 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Mauricio Ayala Rincon. $<->$ Alexsandro Fernandes da Fonseca. Animação de Relações de Equivalência entre Modelos Computacionais, suas Gramáticas e Linguagens.
+						2001. 0 f.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Luiz Manoel Gadelha Junior. Aplicacoes de Tecnicas de Reescrita ao Problema da Palavra em Teoria dos Grupos.
+						2000.
+
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Vaston Gonçalves da Costa. Critérios de Confluência de Sistemas de Reescrita de Termos Lineares-Esquerdo Não Terminantes.
+						1998. 100 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Ivan Eid Tavares de Araújo. Unificação Em Teorias Monoidais e Módulo A Aritmética de Presburger.
+						1998. 80 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Yukiko Massago. Formalismos dos Paradigmas de Programação Funcional e Lógica.
+						1997. 110 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Pablo Domingues Conejo. Limite Inferior Para A Complexidade Dealgoritmos de Atualização de Árvores de Sufixos.
+						1997. 100 f.
+
+					Dissertação  (Mestrado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Lucas Angelo da Silveira.
+						Dynamically Reconfigurable Heterogeneous Parallel Island Model.
+						2024. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Gabriel Ferreira Silva.
+						Towards Nominal AC-Unification.
+						2024. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Verifying the Computational Properties of a First-Order Functional Model.
+						2023. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Daniel Saad Nogueira Nunes.
+						Grammar Compression by Induced Suffix Sorting.
+						2022. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ Ariane Alves Almeida.
+						On Termination by Dependency Pairs and Termination of First-Order Functional Specifications in PVS.
+						2021. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Washington Luis Ribeiro de Carvalho Segundo.
+						Nominal Equational Problems Modulo Associativity, Commutativity and Associativity-Commutativity.
+						2019. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, . Orientador: Mauricio Ayala Rincon. $<->$ José Luis Soncco Álvarez.
+						Cálculo da Distância de Reversão e Construção de Árvores Filogenéticas usando a Ordem dos Genes.
+						2017. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Ana Cristina Rocha Oliveira Valverde.
+						Unificação, Confluência e Tipos com Interseção para Sistemas de Reescrita Nominal.
+						2016. Tese
+					 (Doutorado em Informática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Andréia Borges Avelar.
+						Formalização da Automação da Terminação Através de Grafos com Matrizes de Medida.
+						2014. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Thaynara Arielly de Lima.
+						Análise algébrico e combinatório do problema de rearranjo com técnicas de teoria de reescrita.
+						2014. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Daniele Nantes Sobrinho.
+						O Problema da Dedução do Intruso para Teorias AC-convergentes Localmente Estáveis.
+						2013. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Daniel Lima Ventura.
+						Cálculos de Substituições Explícitas à la de Bruijn com Sistemas de Tipos com Interseção.
+						2010. 0 f. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Carlos Federico Morra.
+						A Flexible Framework for Hardware/Software Design Space Exploration using Rewriting Logic.
+						2010. Tese
+					 (Doutorado em Elektrotechnik und Informationstechnik)  - Karlsruher Institut für Technologie, Deutscher Akademischer Austauschdienst. Coorientador: Mauricio Ayala Rincon. $<->$ André Luiz Galdino.
+						Formalização da Teoria de Reescrita numa linguagem de ordem superior.
+						2008. 0 f. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Flávio Leonardo Cavalcanti de Moura.
+						Um estudo Comparativo em Unificação de Ordem Superior via Cálculos de Substituições Explícitas.
+						2006. 100 f. Tese
+					 (Doutorado em Matemática)  - Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Besiki Dundua.
+						2015. Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Mauricio Ayala Rincon. $<->$ Daniele Nantes Sobrinho.
+						2014. Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Mauricio Ayala Rincon. $<->$ André Luiz Galdino.
+						2013. Universidade de Brasília, . Mauricio Ayala Rincon. $<->$ Daniel Lima Ventura.
+						2011. Universidade de Brasília, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Formalização do Cálculo ""Pointfree"" em estilo relacional.
+						2014.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Mauricio Ayala Rincon. $<->$ Daniel Saad Nogueira Nunes.
+						Correção e análise de algoritmos baseados no método Boyer-Moore de casamento de padrões.
+						2011.
+						Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação)  - Universidade de Brasília. Orientador: Mauricio Ayala Rincon. $<->$ Pedro Augusto Machado Cardoso.
+						Formalização no assistente de prova PVS.
+						2024.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Lucas Fonseca Alves.
+						Formalização de viés em dados e algoritmos em PVS.
+						2023.
+						Iniciação Científica. (Graduando em Estatística)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Maria Eduarda Carvalho Santos.
+						Construção de Protocolos Para Formalização de Viés em Dados e Procedimentos de Consulta e Recomendaçãa.
+						2022.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Felipe Gomes Paradas.
+						Formalização de propriedades algébricas para Quaternions em PVS.
+						2022.
+						Iniciação Científica. (Graduando em Ciências da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Bruno Ferreira Miranda.
+						Formalização de viés em dados e algoritmos em PVS.
+						2022.
+						Iniciação Científica. (Graduando em Ciências da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Nikson Bernardes Fernandes Ferreira.
+						Formalização da correção do algoritmo de Ford-Johnson.
+						2019.
+						Iniciação Científica. (Graduando em Ciências da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Nikson Bernardes Fernandes Ferreira.
+						Formalização de algoritmos de ordenação com ordens abstractos sobre um tipo não interpretado.
+						2018.
+						Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Danylo Andriushchenko.
+						Formalização da Gödelização da Linguagem Funcional Minimal PVS0.
+						2017.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Fundação de Apoio à Pesquisa do Distrito Federal. Orientador: Mauricio Ayala Rincon. $<->$ Jadiel Teófilo Amorim de Oliveira.
+						Formalização de noções de complexidade computacional e de propriedades de algoritmos de ordenação.
+						2016.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Andressa Teixeira Sales.
+						Formalização de correcção de algoritmos em PVS..
+						2015.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Lucas de Moura Amaral.
+						Implementações de E-matching e E-unificação.
+						2015.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Jéssyca Cristine Lima de Souza.
+						Formalização aplicada em problemas de otimização via polinômios de Bernstein.
+						2014.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Jéssyca Cristine Lima de Souza.
+						Otimização por polinômios de Bernstein certificada.
+						2013.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Formalização de Protocolos de Selo Nominal.
+						2013.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Aurora Li Min de Freitas Wang.
+						Fundamentos de Formalização e Verificação.
+						2013.
+						Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Yuri Santos Rego.
+						Verificação formal em PVS de propriedades de segurança de sistemas criptográficos.
+						2012.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Jéssyca Cristine Lima de Souza.
+						Formalização aplicada em problemas de otimização.
+						2012.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Formalização da segurança de protocolos em cascata com assinaturas.
+						2012.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Modelagem e Formalização de Sistemas Computacionais utilizando Regras de Reescrita e Sistemas Dedutivos.
+						2011.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Yuri Santos Rego.
+						Verificação da Segurança de sistemas criptográficos.
+						2011.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Alexandre Andrade Amaral.
+						Formalização de Propriedades de Segurança de Protocolos Criptográficos.
+						2010.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Thiago Mendonça Ferreira Ramos.
+						Teoria dos números e técnicas de fatoração eficientes.
+						2010.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Ana Cristina Rocha Oliveira.
+						Formaliização de Teoremas de Conflluência para Sistemas de Reescrita de Termos Lineares e Ortogonais.
+						2010.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Yuri Santos Rego.
+						Verificação e Formalização de sistemas criptográficos no assistente de demonstração PVS.
+						2010.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Ana Cristina Rocha Oliveira.
+						Formalização de Teoremas da Teoria dos Sistemas de Reescrita de Termos.
+						2009.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Fábio Salgado de Carvalho.
+						Verficação de Sistemas Reconfiguráveis: convoluções para processamento de imágens.
+						2009.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Rebecca Caldas Curley.
+						Aplicação de métodos formais na verificaçã de protocolos criptográficos.
+						2008.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Ana Cristina Rocha Oliveira.
+						Verificação de propriedades da teoria de reescrita utilizando o assistente de prova PVS.
+						2008.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Fábio Henrique da Silva.
+						Caracterização da propriedade de expansão em cálculos de substituições explícitas.
+						2008.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Fábio Henrique da Silva.
+						Estudo da Propriedade de Expansão para Cálculos de Substituições Explícitas.
+						2007. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Marcelo Henrique de Oliveira.
+						Demonstrações mecânicas baseadas em técnicas indutivas e da teoria de reescrita.
+						2007. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Danilo Tocantins Rufo Costa.
+						Verificação formal de protocolos criptográficos.
+						2007. 0 f.
+						Iniciação Científica. (Graduando em Engenharia de Redes)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Claudio Celso Soares de Oliveira.
+						Algoritmos exatos de seqüências biológicas em tempo sub-quadrático.
+						2006. 0 f.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Roberto Evelim Penha Borges.
+						Verificação de protocolos criptográficos utilizando PVS.
+						2006. 0 f.
+						Iniciação Científica. (Graduando em Engenharia de Redes)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Aline Cosme da Cunha.
+						Implementação de Cálculos de Substituições Explícitas que Combinam Beta-Contração.
+						2005. 20 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Claudio Celso Soares de Oliveira.
+						Algoritmos Eficientes para Alinhamento de Seqüências.
+						2005. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Diogo Pereira Almeida.
+						Verificação de Soluções Geométricas para Gerenciamento de Trafego Aéreo com PVS.
+						2005. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Marrise Neves da Rocha.
+						Visualização da redução no cálculo lambda e em cáculos de substituições explícitas.
+						2004. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Rodrigo Borges Nogueira.
+						Especificação de Sistemas de Reescrita para Simulação das Fases de Processadores Elaborados.
+						2003. 0 f.
+						Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Felipe Paulino Tavares.
+						Geração de Módulos de Sistemas Digitais Utilizando Técnicas de Reescrita.
+						2003. 0 f.
+						Iniciação Científica. (Graduando em Engenharia Elétrica)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Rodrigo Borges Nogueira.
+						Visualização de Teoremas de Equivalência entre Modelos Computacionais e Representações Gramaticais: O caso das linguagens livres de contexto.
+						2002. 0 f.
+						Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Marcos de Andrade Gomes.
+						Implementação da Unificação de Ordem Superior via o Lamda s_e-cálculo.
+						2002. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Hélio Carneiro Ferreira.
+						Prova categórica da modularidade da terminalidade da união disjunta de sistemas de reescrita.
+						2002. 0 f.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Fred Ulisses Maranhão.
+						Atualização Dinâmica de árvores de sufixos baseada em métodos de construção incremental.
+						2000.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Alison Hugo Rodrigues Silva.
+						Implementação de Algoritmos Gráficos para Ilustrar Relações de Equivalência de Modelos Computacionais.
+						2000. 30 f.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Alison Hugo Rodrigues Silva.
+						Implementacao de Algoritmos Graficos para Animar Algoritmos para Reconhecimento de Padroes em Palavras.
+						1999.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Vander Ramos Alves.
+						Formalização  e  Prova de Restrições de Integridade.
+						1997.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Luiz Manoel Gadelha Junior.
+						Demonstração automática de Teoremas Algébricos com Técnicas de Reescrita.
+						1997.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ André Elvas.
+						Formalização e Prova de Restrições de Integridade via Técnicas de Reescrita.
+						1997.
+						Iniciação Científica. (Graduando em Ciência da Computação)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Luiz Manoel Gadelha Junior.
+						Implementação de algoritmos de decisão para a aritmética de Presburguer.
+						1996.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Luciano Carvalho.
+						Estudo das propriedades dinâmicas das árvores de sufixos pra operações básicas e para geração de repetições em palavras.
+						1995.
+						Iniciação Científica. (Graduando em Matemática)  - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon. $<->$ Gabriel Nóbrega Bufolo.
+						Aplicações do Teorema de Church-Rosser (Bolsista PET Matemática UnB).
+						2015.
+						Orientação de outra natureza. (Matemática)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ André Figueira Lourenço.
+						Dedução natural no cálculo proposicional e de predicados para disciplina de Lógica Computacional.
+						2011.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Yuri Cosic Lavinas.
+						Geração de material didático para lógica computacional.
+						2011.
+						Orientação de outra natureza. (Ciência da Computação)  - Universidade de Brasília,
+						Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Mauricio Ayala Rincon. $<->$ Hélio Carneiro Ferreira.
+						Aspetos implementacionais no sistema SUBSEXPL de cálculos de substituições explícitas que combinam Beta-contração: redução, normalizaçao, confluência, terminação (Bolsa DTI, projeto CT-INFO 506598/04-7 Modelagem Algorítmica, Semântica da Computação e Aplicações).
+						2006. 0 f.
+						Orientação de outra natureza - Universidade de Brasília,
+						Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Mauricio Ayala Rincon."
